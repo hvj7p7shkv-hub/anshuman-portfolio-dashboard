@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.389029428814272,3.631801373481247,6875.0,196175.0,No urgent action; monitor with the rest of the portfolio.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,3.0932953170784314,3.0099836090001553,4040.000000000009,138260.0,No urgent action; monitor with the rest of the portfolio.
-Dr. Lal PathLabs,LALPATHLAB.NS,Medium,Monitor,Diagnostics,2.7827017090982396,-2.7894471517391994,-3568.9999999999986,124377.5,No urgent action; monitor with the rest of the portfolio.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,2.7285254136381973,2.784613828675453,3303.9999999999964,121956.0,No urgent action; monitor with the rest of the portfolio.
-Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.5594747886140063,2.942499775038243,3270.0000000000045,114400.0,No urgent action; monitor with the rest of the portfolio.
-Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.3323885202186205,-2.5655404458152287,-2745.0000000000045,104250.0,No urgent action; monitor with the rest of the portfolio.
-Rashi Peripherals,RPTECH.NS,Medium,Event watch,Technology Distribution,2.247818461643787,-3.957556638944648,-4140.0,100470.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-JBM Auto,JAYBARMARU.NS,Medium,Event watch,Auto Components,2.167946739656444,-3.243200063905427,-3248.0000000000045,96899.99999999999,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Titan Biotech,TITANBIO.NS,Medium,Positive momentum,Biotechnology,1.379632979369604,4.993870462439554,2933.0000000000014,61665.0,Strong daily move; watch whether it follows through or simply retraces.
-Thangamayil Jewellery,THANGAMAYL.NS,Medium,Monitor,Jewellery,1.2157505245916531,3.1119544592030257,1640.0,54340.0,No urgent action; monitor with the rest of the portfolio.
+Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.614816726938053,2.7968890218366793,5610.0,206190.0,No urgent action; monitor with the rest of the portfolio.
+Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.391898292159362,3.660858363873487,6930.0048828125,196230.0048828125,No urgent action; monitor with the rest of the portfolio.
+Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,3.083035084803903,2.6300141642312314,3530.0048828125,137750.0,No urgent action; monitor with the rest of the portfolio.
+Dr. Lal PathLabs,LALPATHLAB.NS,Medium,Monitor,Diagnostics,2.7878135639249018,-2.64681847895456,-3386.4984130859375,124559.50317382812,No urgent action; monitor with the rest of the portfolio.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,2.7231871927835294,2.5452542455883576,3019.9951171875,121671.9970703125,No urgent action; monitor with the rest of the portfolio.
+Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.559758312850382,2.9154954485888895,3239.990234375,114369.9951171875,No urgent action; monitor with the rest of the portfolio.
+Rashi Peripherals,RPTECH.NS,Medium,Event watch,Technology Distribution,2.2400627584865247,-4.324635756470463,-4524.00146484375,100085.99853515625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+JBM Auto,JAYBARMARU.NS,Medium,Event watch,Auto Components,2.1462624382473448,-4.246235468268733,-4252.498626708984,95895.00045776367,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Monarch Networth Capital,MONARCH.NS,Medium,Monitor,Capital Markets,1.7484334271386677,2.965599003293584,2250.0,78120.00122070312,No urgent action; monitor with the rest of the portfolio.
+Titan Biotech,TITANBIO.NS,Medium,Positive momentum,Biotechnology,1.3801478136263927,4.992981463425261,2932.5027465820226,61665.000915527344,Strong daily move; watch whether it follows through or simply retraces.
+Thangamayil Jewellery,THANGAMAYL.NS,Medium,Monitor,Jewellery,1.214637488582997,2.979127134724857,1570.0,54270.0,No urgent action; monitor with the rest of the portfolio.
