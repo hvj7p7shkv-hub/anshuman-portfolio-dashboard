@@ -11,7 +11,7 @@ import pandas as pd
 
 PROFILE = {
     "SANSERA": ("Sansera Engineering", "SANSERA.NS", "Auto Components"),
-    "KPL": ("K.P. Energy", "KPEL.NS", "Renewables"),
+    "KPL": ("Kwality Pharmaceuticals", "KPL.NS", "Pharma"),
     "PARAS": ("Paras Defence and Space Technologies", "PARAS.NS", "Defence"),
     "ARVIND": ("Arvind", "ARVIND.NS", "Textiles / Apparel"),
     "INDSWFTLAB": ("Ind-Swift Laboratories", "INDSWFTLAB.NS", "Pharma"),
