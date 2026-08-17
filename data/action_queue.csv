@@ -1,8 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Azad Engineering,AZAD.NS,High,Positive momentum,Industrials / Aerospace,3.2397804277714193,6.593566412258456,8959.99755859375,144850.0,Strong daily move; watch whether it follows through or simply retraces.
-Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.3026261307495175,6.090269383661928,5909.99755859375,102950.0,Strong daily move; watch whether it follows through or simply retraces.
-Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.777071272576673,3.5850415007093073,7391.9970703125,213581.9970703125,No urgent action; monitor with the rest of the portfolio.
-Vadilal Industries,VADILALIND.NS,Medium,Event watch,Consumer Staples,3.3104584129406125,-4.4973544973545,-6970.0,148010.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-R R Kabel,RRKABEL.NS,Medium,Monitor,Electricals,3.0360221137405086,-2.54164439783352,-3540.00244140625,135740.00244140625,No urgent action; monitor with the rest of the portfolio.
-Rashi Peripherals,RPTECH.NS,Medium,Positive momentum,Technology Distribution,2.343243573007445,4.675978726790753,4680.0,104765.99853515625,Strong daily move; watch whether it follows through or simply retraces.
-Jammu & Kashmir Bank,J&KBANK.NS,Medium,Event watch,Banking,2.0136516247461236,-3.4924059846880184,-3257.99560546875,90030.00183105469,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Kwality Pharmaceuticals,KPL.NS,High,Positive momentum,Pharma,4.842958575634914,5.124402667139538,10566.005859375,216756.005859375,Strong daily move; watch whether it follows through or simply retraces.
+Azad Engineering,AZAD.NS,High,Positive momentum,Industrials / Aerospace,3.239609219790181,6.700266768857555,9104.99267578125,144994.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.300648689796384,6.110874409099321,5929.99267578125,102969.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+Tata Technologies,TATATECH.NS,Medium,Event watch,Engineering Services,3.7609810969333495,-3.0245419128455353,-5250.0,168330.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Vadilal Industries,VADILALIND.NS,Medium,Event watch,Consumer Staples,3.310548048285089,-4.394115369725126,-6810.0,148170.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,2.7975101942456133,2.906172841983401,3535.99853515625,125207.99560546875,No urgent action; monitor with the rest of the portfolio.
+Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.481402835662747,-2.894113578655144,-3309.99755859375,111059.99755859375,No urgent action; monitor with the rest of the portfolio.
+Rashi Peripherals,RPTECH.NS,Medium,Positive momentum,Technology Distribution,2.3375592104259386,4.5321009946890145,4535.99853515625,104621.9970703125,Strong daily move; watch whether it follows through or simply retraces.
+Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.240702722679999,2.6342391119400954,2573.994140625,100286.9970703125,No urgent action; monitor with the rest of the portfolio.
+Jammu & Kashmir Bank,J&KBANK.NS,Medium,Event watch,Banking,1.9836476968857701,-4.830199841268545,-4505.9967041015625,88782.00073242188,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
