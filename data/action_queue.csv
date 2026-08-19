@@ -1,13 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Himadri Speciality Chemical,HSCL.NS,High,Event watch,Specialty Chemicals,2.469763429311192,-6.472240518803519,-7589.996337890625,109680.00183105469,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Sansera Engineering,SANSERA.NS,Medium,Event watch,Auto Components,4.37038677193426,-3.005998221592332,-6015.00244140625,194084.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Technologies,TATATECH.NS,Medium,Event watch,Engineering Services,3.6713186435285134,-3.142637847060614,-5290.00244140625,163040.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Karnataka Bank,KTKBANK.NS,Medium,Monitor,Banking,3.591605218806615,2.6548672566371723,4125.0,159500.0,No urgent action; monitor with the rest of the portfolio.
-Tanfac Industries,TANFACIND.NS,Medium,Monitor,Specialty Chemicals,3.4217809374554333,-2.789489811982726,-4360.49560546875,151958.25439453125,No urgent action; monitor with the rest of the portfolio.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,3.3445839541472187,-2.7499508058174915,-4200.0,148530.0048828125,No urgent action; monitor with the rest of the portfolio.
-R R Kabel,RRKABEL.NS,Medium,Monitor,Electricals,3.188422090406193,3.030626563628891,4164.990234375,141594.9951171875,No urgent action; monitor with the rest of the portfolio.
-Azad Engineering,AZAD.NS,Medium,Monitor,Industrials / Aerospace,3.174010853630228,-2.7862963346492076,-4039.990234375,140955.0048828125,No urgent action; monitor with the rest of the portfolio.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,2.9255255955499724,3.7633375479999565,4711.99951171875,129919.9951171875,No urgent action; monitor with the rest of the portfolio.
-Avalon Technologies,AVALON.NS,Medium,Event watch,Electronics Manufacturing,2.3711349814441163,-4.155101570075404,-4565.00244140625,105300.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Rashi Peripherals,RPTECH.NS,Medium,Event watch,Technology Distribution,2.2827747047059495,-3.10259661070581,-3245.99853515625,101375.99853515625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Titan Biotech,TITANBIO.NS,Medium,Monitor,Biotechnology,1.3509052204744918,-2.8304163565912033,-1747.4990844726476,59992.501831054695,No urgent action; monitor with the rest of the portfolio.
+Ind-Swift Laboratories,INDSWFTLAB.NS,High,Event watch,Pharma,2.902064780150778,-6.737393100055289,-9347.998046875,129400.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.373281546595067,-2.5779364615965528,-5159.99755859375,195000.0,No urgent action; monitor with the rest of the portfolio.
+Tata Technologies,TATATECH.NS,Medium,Event watch,Engineering Services,3.6331877464020566,-3.086861470421498,-5159.99755859375,162000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Karnataka Bank,KTKBANK.NS,Medium,Positive momentum,Banking,3.63262720616476,4.247791538867651,6600.006103515625,161975.00610351562,Strong daily move; watch whether it follows through or simply retraces.
+Tanfac Industries,TANFACIND.NS,Medium,Monitor,Specialty Chemicals,3.3995030797128503,-2.7850330123055045,-4342.5,151580.24780273438,No urgent action; monitor with the rest of the portfolio.
+Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,3.332664809353985,-2.7041214894096277,-4130.0048828125,148600.0,No urgent action; monitor with the rest of the portfolio.
+R R Kabel,RRKABEL.NS,Medium,Positive momentum,Electricals,3.2651593386960656,4.556721998430779,6345.00732421875,145590.00244140625,Strong daily move; watch whether it follows through or simply retraces.
+Himadri Speciality Chemical,HSCL.NS,Medium,Event watch,Specialty Chemicals,2.5232152081837276,-4.0611410201771285,-4762.5,112507.49816894531,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+JBM Auto,JAYBARMARU.NS,Medium,Event watch,Auto Components,2.1106130121060187,-3.7877586883665493,-3704.996109008789,94110.0025177002,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
