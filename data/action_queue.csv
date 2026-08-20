@@ -1,10 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Kwality Pharmaceuticals,KPL.NS,High,Positive momentum,Pharma,4.863678280144798,5.738040298337532,11886.005859375,219030.0,Strong daily move; watch whether it follows through or simply retraces.
-Tanfac Industries,TANFACIND.NS,Medium,Monitor,Specialty Chemicals,3.3623233124052474,-2.8889263893052908,-4504.493408203125,151418.25439453125,No urgent action; monitor with the rest of the portfolio.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,2.9517373906412145,3.1857448436322544,4104.003906250023,132928.0029296875,No urgent action; monitor with the rest of the portfolio.
-FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Monitor,Consumer Internet,2.6300235378731216,2.620085382584847,3023.997802734375,118440.0,No urgent action; monitor with the rest of the portfolio.
-Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.5271009926508143,3.5862215936394826,3940.00244140625,113805.0048828125,No urgent action; monitor with the rest of the portfolio.
-Arvind,ARVIND.NS,Medium,Positive momentum,Textiles / Apparel,2.4008623106461515,4.66601657036545,4819.9951171875,108119.9951171875,Strong daily move; watch whether it follows through or simply retraces.
-Rashi Peripherals,RPTECH.NS,Medium,Monitor,Technology Distribution,2.3118625706678433,3.501339169214135,3521.9970703125,104111.9970703125,No urgent action; monitor with the rest of the portfolio.
-BLS E-Services,BLSE.NS,Medium,Monitor,Digital Services,2.1477192820615625,3.799094514195245,3539.996337890625,96719.99816894531,No urgent action; monitor with the rest of the portfolio.
-Equitas Small Finance Bank,EQUITASBNK.NS,Medium,Monitor,Banking,1.7375830955637606,2.7982096381540256,2129.9972534179688,78250.0,No urgent action; monitor with the rest of the portfolio.
+Kwality Pharmaceuticals,KPL.NS,High,Positive momentum,Pharma,4.8381323880202745,5.173215812426668,10716.005859375,217860.0,Strong daily move; watch whether it follows through or simply retraces.
+Tanfac Industries,TANFACIND.NS,Medium,Event watch,Specialty Chemicals,3.347635276607735,-3.321833075155889,-5179.493408203125,150743.25439453125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,2.943208187198386,2.878342260430955,3707.9956054687727,132531.99462890625,No urgent action; monitor with the rest of the portfolio.
+FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Monitor,Consumer Internet,2.6482478989783242,3.321894477146614,3833.997802734375,119250.0,No urgent action; monitor with the rest of the portfolio.
+Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.534101142867653,3.8638283555779918,4244.9951171875,114109.99755859375,No urgent action; monitor with the rest of the portfolio.
+Arvind,ARVIND.NS,Medium,Positive momentum,Textiles / Apparel,2.386199050274389,4.017424975798645,4150.0,107450.0,Strong daily move; watch whether it follows through or simply retraces.
+Rashi Peripherals,RPTECH.NS,Medium,Monitor,Technology Distribution,2.32059797544964,3.883088314103045,3905.99853515625,104495.99853515625,No urgent action; monitor with the rest of the portfolio.
+BLS E-Services,BLSE.NS,Medium,Positive momentum,Digital Services,2.1605704687079887,4.410811790160518,4109.9945068359375,97289.99633789062,Strong daily move; watch whether it follows through or simply retraces.
