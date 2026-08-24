@@ -1,6 +1,6 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Kwality Pharmaceuticals,KPL.NS,High,Event watch,Pharma,4.519719187853862,-7.41536367658574,-16151.9970703125,201666.005859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Himadri Speciality Chemical,HSCL.NS,High,Event watch,Specialty Chemicals,2.1999525906255584,-7.071852730716488,-7469.9981689453125,98160.00366210938,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Azad Engineering,AZAD.NS,Medium,Monitor,Industrials / Aerospace,3.1800251304934664,2.5735541335443646,3559.99755859375,141890.00244140625,No urgent action; monitor with the rest of the portfolio.
-Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.4471558657256547,-2.747715483049429,-3084.99755859375,109190.00244140625,No urgent action; monitor with the rest of the portfolio.
-Fermenta Biotech,FERMENTA.NS,Medium,Monitor,Biotechnology,2.1441468946468594,3.966528962812932,3650.0,95670.00122070312,No urgent action; monitor with the rest of the portfolio.
+Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.648232017955496,3.180503383945421,6413.994140625,208080.0,No urgent action; monitor with the rest of the portfolio.
+Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,3.785288905433289,3.963431782213811,6459.99755859375,169450.0,No urgent action; monitor with the rest of the portfolio.
+Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.4021897687100076,3.0966908081906164,3230.0033569335797,107535.00366210938,No urgent action; monitor with the rest of the portfolio.
+Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.271843503585515,3.6063595450816166,3540.0024414062386,101700.0,No urgent action; monitor with the rest of the portfolio.
+Himadri Speciality Chemical,HSCL.NS,Medium,Monitor,Specialty Chemicals,2.2713408015346785,3.5834276126245124,3517.49267578125,101677.49633789062,No urgent action; monitor with the rest of the portfolio.
