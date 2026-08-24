@@ -1,7 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.639465035226713,2.775871053425627,5597.98828125,207263.994140625,No urgent action; monitor with the rest of the portfolio.
-Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,3.767058457704814,3.2517331864605037,5300.0,168290.00244140625,No urgent action; monitor with the rest of the portfolio.
-Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.4029574770927646,2.919321374848982,3044.9981689452984,107349.9984741211,No urgent action; monitor with the rest of the portfolio.
-Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.274247630580823,3.504485051920292,3440.0024414062386,101600.0,No urgent action; monitor with the rest of the portfolio.
-Himadri Speciality Chemical,HSCL.NS,Medium,Monitor,Specialty Chemicals,2.262048213313158,2.9492645282600094,2894.9981689453125,101055.00183105469,No urgent action; monitor with the rest of the portfolio.
-Titan Biotech,TITANBIO.NS,Medium,Monitor,Biotechnology,1.3044466601584397,-2.7290921539947277,-1634.9990844726562,58275.0,No urgent action; monitor with the rest of the portfolio.
+Shilpa Medicare,SHILPAMED.NS,High,Positive momentum,Pharma,3.847489990310303,5.012574387882807,8169.9951171875,171159.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.672825795617535,3.0793489331713886,6210.0,207876.005859375,No urgent action; monitor with the rest of the portfolio.
+Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.585385967561796,-2.832774901005175,-4650.0,159500.0,No urgent action; monitor with the rest of the portfolio.
+Tanfac Industries,TANFACIND.NS,Medium,Event watch,Specialty Chemicals,3.216731861806226,-4.164907275195018,-6218.997802734375,143100.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+India Nippon Electricals,INDNIPPON.NS,Medium,Event watch,Auto Components,2.39692616443813,-3.563344856983308,-3939.990234375,106630.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.382089865051763,-2.948994644401326,-3220.00732421875,105969.9951171875,No urgent action; monitor with the rest of the portfolio.
+Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.3690522796874847,-2.511443827193105,-2714.996337890625,105390.0032043457,No urgent action; monitor with the rest of the portfolio.
+Zydus Wellness,ZYDUSWELL.NS,Medium,Positive momentum,Consumer Staples,2.2977940939238786,4.136108153105722,4060.0036621093636,102220.00122070312,Strong daily move; watch whether it follows through or simply retraces.
+Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.3049006609213936,-3.104655504751508,-1859.9990844726562,58050.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
