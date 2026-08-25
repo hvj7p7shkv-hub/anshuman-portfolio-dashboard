@@ -1,9 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Shilpa Medicare,SHILPAMED.NS,High,Positive momentum,Pharma,3.8483782307552055,5.012574387882807,8169.9951171875,171159.99755859375,Strong daily move; watch whether it follows through or simply retraces.
-Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.657176208157868,2.710417746235838,5465.9912109375,207131.9970703125,No urgent action; monitor with the rest of the portfolio.
-Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.586213698065318,-2.832774901005175,-4650.0,159500.0,No urgent action; monitor with the rest of the portfolio.
-Tanfac Industries,TANFACIND.NS,Medium,Event watch,Specialty Chemicals,3.2287557815449723,-3.8288846572749557,-5717.252197265625,143601.74560546875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-India Nippon Electricals,INDNIPPON.NS,Medium,Event watch,Auto Components,2.4114195555956446,-3.002618489463449,-3319.9951171875,107250.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.3826397998318036,-2.948994644401326,-3220.00732421875,105969.9951171875,No urgent action; monitor with the rest of the portfolio.
-Zydus Wellness,ZYDUSWELL.NS,Medium,Positive momentum,Consumer Staples,2.2983245679870787,4.136108153105722,4060.0036621093636,102220.00122070312,Strong daily move; watch whether it follows through or simply retraces.
-Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.2952526585877393,-3.843266484248853,-2302.500915527335,57607.49816894532,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Paras Defence and Space Technologies,PARAS.NS,High,Event watch,Defence,3.227228101412772,-5.108027262804383,-7659.99755859375,142300.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tanfac Industries,TANFACIND.NS,High,Event watch,Specialty Chemicals,3.1537763444665274,-6.869687014833781,-10257.747802734375,139061.25,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Zydus Wellness,ZYDUSWELL.NS,High,Positive momentum,Consumer Staples,2.367238826306499,6.336600936145986,6220.007324218739,104380.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+India Nippon Electricals,INDNIPPON.NS,Medium,Event watch,Auto Components,2.4139576036075217,-3.73518391802774,-4129.99267578125,106440.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.4077208662365552,-2.77040015785629,-3025.0,106165.00244140625,No urgent action; monitor with the rest of the portfolio.
+Ajanta Pharma,AJANTPHARM.NS,Medium,Event watch,Pharma,2.39109700445103,-3.445248222488184,-3762.00439453125,105431.9970703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Rain Industries,RAIN.NS,Medium,Event watch,Materials,2.3317460655356923,-3.771817804533839,-4029.998779296875,102815.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.3097148479029346,-3.6054066390938777,-2159.9990844726562,57750.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
