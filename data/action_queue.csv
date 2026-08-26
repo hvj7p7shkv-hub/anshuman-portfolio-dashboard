@@ -1,9 +1,7 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Ind-Swift Laboratories,INDSWFTLAB.NS,High,Positive momentum,Pharma,3.132646025103489,6.1814439653624875,8092.00439453125,139000.0,Strong daily move; watch whether it follows through or simply retraces.
-Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.544275052324568,-2.653376247355854,-5495.9912109375,201636.005859375,No urgent action; monitor with the rest of the portfolio.
-Tanfac Industries,TANFACIND.NS,Medium,Event watch,Specialty Chemicals,3.0903665227556503,-4.510911601681588,-6477.747802734375,137123.99780273438,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Dr. Lal PathLabs,LALPATHLAB.NS,Medium,Monitor,Diagnostics,2.8438228942241097,3.052340933729658,3737.5,126184.50317382812,No urgent action; monitor with the rest of the portfolio.
-Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.466789827149824,3.675117104250525,3880.0048828125,109455.0048828125,No urgent action; monitor with the rest of the portfolio.
-BLS E-Services,BLSE.NS,Medium,Monitor,Digital Services,2.166258490625188,2.6594000739031953,2489.996337890625,96119.99816894531,No urgent action; monitor with the rest of the portfolio.
-JBM Auto,JAYBARMARU.NS,Medium,Event watch,Auto Components,2.076166818342667,-3.138550433060372,-2984.9967956543182,92122.501373291,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Jammu & Kashmir Bank,J&KBANK.NS,Medium,Positive momentum,Banking,2.0676816482187057,4.58244760316171,4019.9981689453125,91746.00219726562,Strong daily move; watch whether it follows through or simply retraces.
+Ind-Swift Laboratories,INDSWFTLAB.NS,High,Positive momentum,Pharma,3.2536673716955593,10.416474923542873,13635.99853515625,144543.994140625,Strong daily move; watch whether it follows through or simply retraces.
+Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.4974707322561978,5.09116741652853,5375.0,110950.0,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Event watch,Pharma,4.521783872876297,-3.0183637288014986,-6251.9970703125,200880.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Paras Defence and Space Technologies,PARAS.NS,Medium,Positive momentum,Defence,3.3989912624667493,4.483811999549281,6480.0048828125,151000.0,Strong daily move; watch whether it follows through or simply retraces.
+Tanfac Industries,TANFACIND.NS,Medium,Event watch,Specialty Chemicals,3.10670052377052,-3.890444076367827,-5586.74560546875,138015.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Jammu & Kashmir Bank,J&KBANK.NS,Medium,Positive momentum,Banking,2.0551966656390452,4.0763225370352485,3575.994873046875,91301.99890136719,Strong daily move; watch whether it follows through or simply retraces.
