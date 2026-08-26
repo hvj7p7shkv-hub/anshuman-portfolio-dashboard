@@ -1,10 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Tanfac Industries,TANFACIND.NS,High,Event watch,Specialty Chemicals,3.1444530734820777,-7.189140266965444,-10734.752197265625,138584.24560546875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Zydus Wellness,ZYDUSWELL.NS,High,Positive momentum,Consumer Staples,2.3844743659381646,7.059907350421257,6930.004882812489,105090.00244140625,Strong daily move; watch whether it follows through or simply retraces.
-Rain Industries,RAIN.NS,High,Event watch,Materials,2.274542143015933,-6.177171040962293,-6599.998474121079,100245.00274658205,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Rashi Peripherals,RPTECH.NS,High,Event watch,Technology Distribution,2.1222706599602037,-10.098037807724191,-10505.99853515625,93534.00146484375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Event watch,Defence,3.279134225109368,-3.627635722840472,-5440.00244140625,144519.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-India Nippon Electricals,INDNIPPON.NS,Medium,Event watch,Auto Components,2.4291732216697173,-3.174457550507881,-3509.99755859375,107059.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avalon Technologies,AVALON.NS,Medium,Event watch,Electronics Manufacturing,2.3954788784430927,-3.310744903908336,-3615.00244140625,105575.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BLS E-Services,BLSE.NS,Medium,Monitor,Digital Services,2.124448892018751,-2.7422835650808497,-2639.996337890625,93630.00183105469,No urgent action; monitor with the rest of the portfolio.
-Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.298085194815088,-4.506760209081328,-2700.0,57209.999084472656,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ind-Swift Laboratories,INDSWFTLAB.NS,High,Positive momentum,Pharma,3.132646025103489,6.1814439653624875,8092.00439453125,139000.0,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.544275052324568,-2.653376247355854,-5495.9912109375,201636.005859375,No urgent action; monitor with the rest of the portfolio.
+Tanfac Industries,TANFACIND.NS,Medium,Event watch,Specialty Chemicals,3.0903665227556503,-4.510911601681588,-6477.747802734375,137123.99780273438,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Dr. Lal PathLabs,LALPATHLAB.NS,Medium,Monitor,Diagnostics,2.8438228942241097,3.052340933729658,3737.5,126184.50317382812,No urgent action; monitor with the rest of the portfolio.
+Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.466789827149824,3.675117104250525,3880.0048828125,109455.0048828125,No urgent action; monitor with the rest of the portfolio.
+BLS E-Services,BLSE.NS,Medium,Monitor,Digital Services,2.166258490625188,2.6594000739031953,2489.996337890625,96119.99816894531,No urgent action; monitor with the rest of the portfolio.
+JBM Auto,JAYBARMARU.NS,Medium,Event watch,Auto Components,2.076166818342667,-3.138550433060372,-2984.9967956543182,92122.501373291,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Jammu & Kashmir Bank,J&KBANK.NS,Medium,Positive momentum,Banking,2.0676816482187057,4.58244760316171,4019.9981689453125,91746.00219726562,Strong daily move; watch whether it follows through or simply retraces.
