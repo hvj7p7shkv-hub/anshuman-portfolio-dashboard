@@ -1,12 +1,16 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Shilpa Medicare,SHILPAMED.NS,High,Positive momentum,Pharma,4.1942617108601095,5.261408603598672,9490.002441406228,189859.99755859375,Strong daily move; watch whether it follows through or simply retraces.
-Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.6214688852795858,6.344943350556376,7080.0048828125,118665.00244140625,Strong daily move; watch whether it follows through or simply retraces.
-Prudent Corporate Advisory Services,PRUDENT.NS,High,Positive momentum,Wealth Distribution,2.43517249851944,5.783788753238817,6026.9970703125,110231.9970703125,Strong daily move; watch whether it follows through or simply retraces.
-Sansera Engineering,SANSERA.NS,Medium,Positive momentum,Auto Components,4.4381501556258485,4.1202384037315465,7950.0,200900.0,Strong daily move; watch whether it follows through or simply retraces.
-Vadilal Industries,VADILALIND.NS,Medium,Monitor,Consumer Staples,3.3896951711260837,3.055947343676535,4550.0,153440.0,No urgent action; monitor with the rest of the portfolio.
-R R Kabel,RRKABEL.NS,Medium,Monitor,Electricals,3.2346138582184256,3.4733684779880036,4914.990234375,146419.9951171875,No urgent action; monitor with the rest of the portfolio.
-Samvardhana Motherson International,MOTHERSON.NS,Medium,Monitor,Auto Components,2.82791227995111,3.0676246286429176,3809.9899291992188,128009.99450683594,No urgent action; monitor with the rest of the portfolio.
-FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Monitor,Consumer Internet,2.779929914285993,3.417156151765899,4157.99560546875,125837.99560546875,No urgent action; monitor with the rest of the portfolio.
-BLS E-Services,BLSE.NS,Medium,Positive momentum,Digital Services,2.173125050684017,4.410127891055993,4155.0018310546875,98369.99816894531,Strong daily move; watch whether it follows through or simply retraces.
-JBM Auto,JAYBARMARU.NS,Medium,Monitor,Auto Components,2.068577800489575,-2.726924396537811,-2625.0057220458984,93637.49885559082,No urgent action; monitor with the rest of the portfolio.
-Jammu & Kashmir Bank,J&KBANK.NS,Medium,Monitor,Banking,1.9574693354211332,-2.9506509477505993,-2694.0032958984375,88607.99560546875,No urgent action; monitor with the rest of the portfolio.
+Shilpa Medicare,SHILPAMED.NS,High,Event watch,Pharma,3.945733776655743,-6.9208904510551505,-13140.00244140625,176719.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.628070542552728,5.484614830058243,6120.00732421875,117705.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+Prudent Corporate Advisory Services,PRUDENT.NS,High,Event watch,Wealth Distribution,2.2795588558862594,-7.3807957320837,-8135.99853515625,102095.99853515625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.35153794920092,-2.9890517087170276,-6005.0048828125,194894.9951171875,No urgent action; monitor with the rest of the portfolio.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Positive momentum,Pharma,3.3906696369726466,4.6098258155391925,6691.9921875,151859.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Paras Defence and Space Technologies,PARAS.NS,Medium,Event watch,Defence,3.0950521274688776,-3.2591299076349722,-4670.00732421875,138619.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Samvardhana Motherson International,MOTHERSON.NS,Medium,Event watch,Auto Components,2.760026686014913,-3.4333170863757645,-4394.989013671875,123615.00549316406,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Monitor,Consumer Internet,2.7316928850548488,-2.774991282562489,-3491.993408203125,122346.00219726562,No urgent action; monitor with the rest of the portfolio.
+Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.5078361859041913,3.358792825990209,3650.0,112319.9951171875,No urgent action; monitor with the rest of the portfolio.
+Ajanta Pharma,AJANTPHARM.NS,Medium,Monitor,Pharma,2.3456708537111046,-2.776312577007767,-3000.0,105056.9970703125,No urgent action; monitor with the rest of the portfolio.
+Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.299184816981109,3.331493387679396,3319.999694824247,102974.9984741211,No urgent action; monitor with the rest of the portfolio.
+Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.251292184912237,-2.7347697481648447,-2834.9990844726562,100830.00183105469,No urgent action; monitor with the rest of the portfolio.
+Fermenta Biotech,FERMENTA.NS,Medium,Event watch,Biotechnology,2.166000648576333,-4.873505864085259,-4970.001220703114,97009.99755859376,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Maruti Suzuki India,MARUTI.NS,Medium,Event watch,Auto,2.0264978436613714,-4.288772421938436,-4067.0,90762.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Titan Biotech,TITANBIO.NS,Medium,Monitor,Biotechnology,1.3232453731727525,3.2806218039506785,1882.5027465820226,59265.000915527344,No urgent action; monitor with the rest of the portfolio.
