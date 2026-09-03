@@ -1,12 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-R R Kabel,RRKABEL.NS,High,Event watch,Electricals,2.9572388149886004,-8.342049704199194,-11970.00732421875,131519.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avalon Technologies,AVALON.NS,High,Event watch,Electronics Manufacturing,2.4616676697419124,-5.563701999771298,-6450.0,109480.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Fermenta Biotech,FERMENTA.NS,High,Positive momentum,Biotechnology,2.3413724427987246,7.173741765499098,6970.007324218739,104130.0048828125,Strong daily move; watch whether it follows through or simply retraces.
-Shilpa Medicare,SHILPAMED.NS,Medium,Positive momentum,Pharma,4.175705850828014,4.366637636607917,7769.9951171875,185709.99755859375,Strong daily move; watch whether it follows through or simply retraces.
-Vadilal Industries,VADILALIND.NS,Medium,Monitor,Consumer Staples,3.3995206283253374,-2.5460874049245796,-3950.0,151190.0,No urgent action; monitor with the rest of the portfolio.
-Solar Industries India,SOLARINDS.NS,Medium,Monitor,Defence / Explosives,2.7791570187248604,2.6919242273180544,3240.0,123600.0,No urgent action; monitor with the rest of the portfolio.
-Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.5815130302164233,3.0425440584885832,3390.00244140625,114809.99755859375,No urgent action; monitor with the rest of the portfolio.
-Himadri Speciality Chemical,HSCL.NS,Medium,Event watch,Specialty Chemicals,2.224674637985928,-3.121098738633621,-3187.5,98939.99633789062,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Event watch,Wealth Distribution,2.1837967623829635,-3.427501858747428,-3447.00439453125,97121.9970703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.1464265895071275,-2.6315807904547572,-2580.0018310546875,95459.99908447266,No urgent action; monitor with the rest of the portfolio.
-Titan Biotech,TITANBIO.NS,Medium,Positive momentum,Biotechnology,1.399190905559025,4.998734420374951,2962.5,62227.500915527344,Strong daily move; watch whether it follows through or simply retraces.
+Titan Biotech,TITANBIO.NS,High,Positive momentum,Biotechnology,1.4604151877227516,10.237909659473754,6067.497253417977,65332.49816894532,Strong daily move; watch whether it follows through or simply retraces.
+Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.276686708989103,3.020837667516396,5609.997558593773,191319.99511718753,No urgent action; monitor with the rest of the portfolio.
+Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.244944735335039,-2.690238278247503,-5250.0,189900.0,No urgent action; monitor with the rest of the portfolio.
+Solar Industries India,SOLARINDS.NS,Medium,Monitor,Defence / Explosives,2.86416413343064,3.66504854368932,4530.0,128130.0,No urgent action; monitor with the rest of the portfolio.
+Avalon Technologies,AVALON.NS,Medium,Event watch,Electronics Manufacturing,2.4910829471794176,-3.873028769337983,-4490.00244140625,111440.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Fermenta Biotech,FERMENTA.NS,Medium,Positive momentum,Biotechnology,2.268664831768235,4.456571625787897,4330.0048828125,101490.00244140626,Strong daily move; watch whether it follows through or simply retraces.
+Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.234731978117709,2.9344536623734374,2850.0,99971.9970703125,No urgent action; monitor with the rest of the portfolio.
+Himadri Speciality Chemical,HSCL.NS,Medium,Event watch,Specialty Chemicals,2.214010234536772,-3.018284281391581,-3082.4981689453125,99044.99816894531,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Jammu & Kashmir Bank,J&KBANK.NS,Medium,Monitor,Banking,2.011822149447886,3.8493474554247786,3335.99853515625,90000.0,No urgent action; monitor with the rest of the portfolio.
