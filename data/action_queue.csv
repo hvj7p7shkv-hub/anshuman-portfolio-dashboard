@@ -1,11 +1,4 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.271108600591694,2.9723802685835965,5520.007324218727,191230.00488281247,No urgent action; monitor with the rest of the portfolio.
-Karnataka Bank,KTKBANK.NS,Medium,Monitor,Banking,3.7941460806327987,2.8454650288515237,4699.9969482421875,169875.0,No urgent action; monitor with the rest of the portfolio.
-Solar Industries India,SOLARINDS.NS,Medium,Positive momentum,Defence / Explosives,2.881205853725569,4.3689320388349495,5400.0,129000.0,Strong daily move; watch whether it follows through or simply retraces.
-Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.5111161876182457,2.6945559631255778,2950.0,112430.0048828125,No urgent action; monitor with the rest of the portfolio.
-India Nippon Electricals,INDNIPPON.NS,Medium,Positive momentum,Auto Components,2.477837088732625,4.237524524742442,4509.99755859375,110940.00244140625,Strong daily move; watch whether it follows through or simply retraces.
-Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.3642639947142388,2.9417499484721166,3025.0015258789344,105855.0033569336,No urgent action; monitor with the rest of the portfolio.
-Fermenta Biotech,FERMENTA.NS,Medium,Event watch,Biotechnology,2.243766922721525,-3.524447471551495,-3670.0073242187386,100459.99755859376,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.230254345145478,2.813989633789049,2733.0029296875,99855.0,No urgent action; monitor with the rest of the portfolio.
-Jammu & Kashmir Bank,J&KBANK.NS,Medium,Monitor,Banking,2.008267493013313,3.752421820363794,3251.9989013671875,89916.00036621094,No urgent action; monitor with the rest of the portfolio.
-Titan Biotech,TITANBIO.NS,Medium,Positive momentum,Biotechnology,1.4580242124562066,4.905388888541529,3052.5009155273524,65280.001831054695,Strong daily move; watch whether it follows through or simply retraces.
+R R Kabel,RRKABEL.NS,High,Event watch,Electricals,2.719007141505724,-7.407262328019915,-9694.9951171875,121190.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Titan Biotech,TITANBIO.NS,High,Positive momentum,Biotechnology,1.4807695991766452,6.062430643958772,3772.4990844726562,66000.0,Strong daily move; watch whether it follows through or simply retraces.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Event watch,Pharma,3.18275714733392,-4.8430420497331035,-7220.007324218773,141859.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
