@@ -1,4 +1,5 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-R R Kabel,RRKABEL.NS,High,Event watch,Electricals,2.719007141505724,-7.407262328019915,-9694.9951171875,121190.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Titan Biotech,TITANBIO.NS,High,Positive momentum,Biotechnology,1.4807695991766452,6.062430643958772,3772.4990844726562,66000.0,Strong daily move; watch whether it follows through or simply retraces.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Event watch,Pharma,3.18275714733392,-4.8430420497331035,-7220.007324218773,141859.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tanfac Industries,TANFACIND.NS,High,Positive momentum,Specialty Chemicals,3.259398389249815,5.735694991574536,7888.502197265625,145422.00439453125,Strong daily move; watch whether it follows through or simply retraces.
+R R Kabel,RRKABEL.NS,High,Event watch,Electricals,2.7502336866632415,-6.249755761441856,-8179.99267578125,122705.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Event watch,Pharma,3.191216903580734,-4.494231138016591,-6700.000000000023,142380.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+India Nippon Electricals,INDNIPPON.NS,Medium,Positive momentum,Auto Components,2.595917358584275,4.398767413367111,4879.99267578125,115819.9951171875,Strong daily move; watch whether it follows through or simply retraces.
