@@ -1,13 +1,15 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.641049917763592,7.962300581264947,8744.9951171875,118575.0,Strong daily move; watch whether it follows through or simply retraces.
-Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.505520776639162,2.614515365811898,5153.994140625,202283.994140625,No urgent action; monitor with the rest of the portfolio.
-Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.360989717501758,3.524025835300293,6664.990234375,195794.9951171875,No urgent action; monitor with the rest of the portfolio.
-Shilpa Medicare,SHILPAMED.NS,Medium,Event watch,Pharma,4.129904810086222,-3.842768022605303,-7410.0097656249545,185419.99511718753,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.2835215347329303,3.539816028608267,5039.990234375023,147419.99511718753,No urgent action; monitor with the rest of the portfolio.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,3.2456570197829144,2.98960534510766,4229.99267578125,145719.9951171875,No urgent action; monitor with the rest of the portfolio.
-Azad Engineering,AZAD.NS,Medium,Monitor,Industrials / Aerospace,3.1982151730090655,3.402585184840734,4725.0,143590.00244140625,No urgent action; monitor with the rest of the portfolio.
-R R Kabel,RRKABEL.NS,Medium,Event watch,Electricals,2.6389340683312836,-3.443217335784321,-4225.0,118480.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-India Nippon Electricals,INDNIPPON.NS,Medium,Monitor,Auto Components,2.507521928210641,-2.797435996346531,-3239.990234375,112580.0048828125,No urgent action; monitor with the rest of the portfolio.
-Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.4456022008892466,3.2537121301085437,3459.99755859375,109800.0,No urgent action; monitor with the rest of the portfolio.
-Rashi Peripherals,RPTECH.NS,Medium,Positive momentum,Technology Distribution,2.290847635710479,4.061184991243216,4013.994140625,102851.9970703125,Strong daily move; watch whether it follows through or simply retraces.
-Titan Biotech,TITANBIO.NS,Medium,Monitor,Biotechnology,1.4072236022788158,-2.9604828815400497,-1927.496337890625,63180.001831054695,No urgent action; monitor with the rest of the portfolio.
+Tanfac Industries,TANFACIND.NS,High,Positive momentum,Specialty Chemicals,3.4330947468388877,6.318849641079449,9188.997802734375,154611.00219726562,Strong daily move; watch whether it follows through or simply retraces.
+Paras Defence and Space Technologies,PARAS.NS,High,Positive momentum,Defence,3.3071717582127285,5.265389689342315,7450.0,148940.00244140625,Strong daily move; watch whether it follows through or simply retraces.
+Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.611830748511026,7.097327479412097,7794.9951171875,117625.0,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.544685358617648,3.825900203070298,7541.9970703125,204671.9970703125,No urgent action; monitor with the rest of the portfolio.
+Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.325813506037964,3.0058676105445326,5684.99755859375,194815.00244140625,No urgent action; monitor with the rest of the portfolio.
+Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.172267780193171,-2.55665858941847,-4930.004882812477,187900.0,No urgent action; monitor with the rest of the portfolio.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.274752914291061,3.5819636361142493,5100.000000000023,147480.00488281253,No urgent action; monitor with the rest of the portfolio.
+Azad Engineering,AZAD.NS,Medium,Monitor,Industrials / Aerospace,3.1841575288967574,3.2657598954835887,4534.99755859375,143400.0,No urgent action; monitor with the rest of the portfolio.
+R R Kabel,RRKABEL.NS,Medium,Monitor,Electricals,2.6502450307469787,-2.730124988136684,-3350.0,119355.0048828125,No urgent action; monitor with the rest of the portfolio.
+India Nippon Electricals,INDNIPPON.NS,Medium,Monitor,Auto Components,2.50558119480148,-2.5729518230130033,-2979.99267578125,112840.00244140625,No urgent action; monitor with the rest of the portfolio.
+Zydus Wellness,ZYDUSWELL.NS,Medium,Positive momentum,Consumer Staples,2.466278669364845,4.44799000111693,4729.99267578125,111069.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+Rashi Peripherals,RPTECH.NS,Medium,Monitor,Technology Distribution,2.2739415170700537,3.611970997167635,3570.0,102408.0029296875,No urgent action; monitor with the rest of the portfolio.
+Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.3840759647112315,-4.262181896160778,-2775.0,62332.49816894532,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Thangamayil Jewellery,THANGAMAYL.NS,Medium,Monitor,Jewellery,1.21548663271833,2.6631657914478524,1420.0,54740.0,No urgent action; monitor with the rest of the portfolio.
