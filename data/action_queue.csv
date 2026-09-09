@@ -1,13 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Kwality Pharmaceuticals,KPL.NS,High,Positive momentum,Pharma,4.792694812059456,6.200164253852725,12690.0,217361.9970703125,Strong daily move; watch whether it follows through or simply retraces.
-Tanfac Industries,TANFACIND.NS,High,Positive momentum,Specialty Chemicals,3.4330370451193506,7.066154431708238,10275.743408203125,155697.74780273438,Strong daily move; watch whether it follows through or simply retraces.
-Thangamayil Jewellery,THANGAMAYL.NS,High,Event watch,Jewellery,1.140613842205527,-5.498721227621484,-3010.0,51730.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.259938030429303,2.820649281532739,5300.0,193200.0,No urgent action; monitor with the rest of the portfolio.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,3.2302325127220124,-2.593085106382975,-3900.0,146500.0,No urgent action; monitor with the rest of the portfolio.
-FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Monitor,Consumer Internet,2.705986674359163,2.526313953829895,3023.997802734375,122723.99780273438,No urgent action; monitor with the rest of the portfolio.
-Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.5588292361869596,2.7900797165633318,3150.0,116050.0,No urgent action; monitor with the rest of the portfolio.
-Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.4855150516562814,3.507644036217039,3819.999694824247,112724.9984741211,No urgent action; monitor with the rest of the portfolio.
-Ajanta Pharma,AJANTPHARM.NS,Medium,Monitor,Pharma,2.3493822507253057,2.508078420662163,2606.9970703125,106550.99853515625,No urgent action; monitor with the rest of the portfolio.
-Fermenta Biotech,FERMENTA.NS,Medium,Monitor,Biotechnology,2.176493129313857,2.6731797918913225,2569.9951171875,98709.99755859376,No urgent action; monitor with the rest of the portfolio.
-JBM Auto,JAYBARMARU.NS,Medium,Event watch,Auto Components,1.9579839646854775,-3.180962761080919,-2917.499542236328,88800.00114440918,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.379188011404518,-3.928116178429941,-2557.498168945321,62550.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+India Nippon Electricals,INDNIPPON.NS,High,Positive momentum,Auto Components,2.891797604702169,17.018621731277396,19100.0,131330.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.55348548930529,2.5361910504450247,5114.990234375,206794.9951171875,No urgent action; monitor with the rest of the portfolio.
+Fermenta Biotech,FERMENTA.NS,Medium,Monitor,Biotechnology,2.17727048649753,2.8500065199816627,2739.9963378906136,98879.99877929688,No urgent action; monitor with the rest of the portfolio.
+Rashi Peripherals,RPTECH.NS,Medium,Monitor,Technology Distribution,2.099586282491524,-2.854702154486133,-2802.00439453125,95351.9970703125,No urgent action; monitor with the rest of the portfolio.
+Monarch Networth Capital,MONARCH.NS,Medium,Event watch,Capital Markets,1.6336135184365965,-3.0069289143530464,-2300.0,74190.00244140626,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Titan Biotech,TITANBIO.NS,Medium,Positive momentum,Biotechnology,1.3868869467199987,4.909430080320898,2947.4990844726562,62984.999084472656,Strong daily move; watch whether it follows through or simply retraces.
+Thangamayil Jewellery,THANGAMAYL.NS,Medium,Event watch,Jewellery,1.126948876159118,-4.630578589397183,-2485.0,51180.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
