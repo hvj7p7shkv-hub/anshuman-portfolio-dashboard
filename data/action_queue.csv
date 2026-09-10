@@ -1,8 +1,6 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-India Nippon Electricals,INDNIPPON.NS,High,Positive momentum,Auto Components,2.891797604702169,17.018621731277396,19100.0,131330.0048828125,Strong daily move; watch whether it follows through or simply retraces.
-Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.55348548930529,2.5361910504450247,5114.990234375,206794.9951171875,No urgent action; monitor with the rest of the portfolio.
-Fermenta Biotech,FERMENTA.NS,Medium,Monitor,Biotechnology,2.17727048649753,2.8500065199816627,2739.9963378906136,98879.99877929688,No urgent action; monitor with the rest of the portfolio.
-Rashi Peripherals,RPTECH.NS,Medium,Monitor,Technology Distribution,2.099586282491524,-2.854702154486133,-2802.00439453125,95351.9970703125,No urgent action; monitor with the rest of the portfolio.
-Monarch Networth Capital,MONARCH.NS,Medium,Event watch,Capital Markets,1.6336135184365965,-3.0069289143530464,-2300.0,74190.00244140626,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Titan Biotech,TITANBIO.NS,Medium,Positive momentum,Biotechnology,1.3868869467199987,4.909430080320898,2947.4990844726562,62984.999084472656,Strong daily move; watch whether it follows through or simply retraces.
-Thangamayil Jewellery,THANGAMAYL.NS,Medium,Event watch,Jewellery,1.126948876159118,-4.630578589397183,-2485.0,51180.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+India Nippon Electricals,INDNIPPON.NS,High,Positive momentum,Auto Components,3.1218148436588664,7.781919391769554,10219.9951171875,141550.0,Strong daily move; watch whether it follows through or simply retraces.
+Titan Biotech,TITANBIO.NS,High,Positive momentum,Biotechnology,1.4170569487834557,7.020613642352447,4215.000915527344,64252.500915527344,Strong daily move; watch whether it follows through or simply retraces.
+Tanfac Industries,TANFACIND.NS,Medium,Event watch,Specialty Chemicals,3.4167165767745713,-3.5023041663866716,-5622.747802734375,154921.49780273438,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Rashi Peripherals,RPTECH.NS,Medium,Event watch,Technology Distribution,2.0803129803602634,-3.8999968137402807,-3828.0029296875,94325.99853515625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Monarch Networth Capital,MONARCH.NS,Medium,Event watch,Capital Markets,1.6320331927287608,-3.2553305816844236,-2490.0024414062614,74000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
