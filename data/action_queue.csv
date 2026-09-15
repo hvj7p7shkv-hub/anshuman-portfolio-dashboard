@@ -1,6 +1,14 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.828757381807186,3.750425660933754,7901.9970703125,218598.0029296875,No urgent action; monitor with the rest of the portfolio.
-Azad Engineering,AZAD.NS,Medium,Monitor,Industrials / Aerospace,3.1588225708563877,3.1188029565530906,4325.0,143000.0,No urgent action; monitor with the rest of the portfolio.
-Vadilal Industries,VADILALIND.NS,Medium,Event watch,Consumer Staples,3.0751027278945293,-4.079101495211191,-5920.0,139210.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.438699383374442,-2.5251612398403678,-2859.99755859375,110400.0,No urgent action; monitor with the rest of the portfolio.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.263086520169489,2.8986365480452303,2885.99853515625,102450.0,No urgent action; monitor with the rest of the portfolio.
+Paras Defence and Space Technologies,PARAS.NS,High,Event watch,Defence,3.0468740391205786,-6.171633957417388,-8859.99755859375,134700.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+India Nippon Electricals,INDNIPPON.NS,High,Event watch,Auto Components,2.885369302090302,-6.12996153738703,-8330.0048828125,127559.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Solar Industries India,SOLARINDS.NS,High,Event watch,Defence / Explosives,2.6186830550036326,-13.436518618214443,-17970.0,115770.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Rain Industries,RAIN.NS,High,Event watch,Materials,2.2688693498427748,-7.1120991450358435,-7680.000305175767,100305.0003051758,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Kwality Pharmaceuticals,KPL.NS,Medium,Event watch,Pharma,4.786103028489407,-3.205886072043229,-7008.0029296875,211590.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Sansera Engineering,SANSERA.NS,Medium,Event watch,Auto Components,4.5190773754049545,-3.249472247395524,-6709.99755859375,199784.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Shilpa Medicare,SHILPAMED.NS,Medium,Event watch,Pharma,4.199574065808977,-3.417784506754784,-6570.007324218727,185659.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Azad Engineering,AZAD.NS,Medium,Event watch,Industrials / Aerospace,3.1232155378735995,-3.0746584764892004,-4380.0048828125,138075.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.2394185554672856,-2.5081211918389967,-2546.9970703125,99003.0029296875,No urgent action; monitor with the rest of the portfolio.
+Himadri Speciality Chemical,HSCL.NS,Medium,Monitor,Specialty Chemicals,2.1933761244797156,-2.774855095439377,-2767.5018310546875,96967.50183105469,No urgent action; monitor with the rest of the portfolio.
+JBM Auto,JAYBARMARU.NS,Medium,Event watch,Auto Components,1.9000550800751934,-3.928634207513493,-3435.001373291005,84000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.4250413100563952,-3.9231371693774775,-2572.4990844726562,63000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Thangamayil Jewellery,THANGAMAYL.NS,Medium,Event watch,Jewellery,1.1238599601611428,-3.072571205618413,-1575.0,49685.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
