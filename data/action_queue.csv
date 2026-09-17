@@ -1,7 +1,7 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.323161903234642,2.6453303287414576,4909.997558593773,190519.99511718753,No urgent action; monitor with the rest of the portfolio.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.422768049292685,3.6273735719781763,5280.0048828125,150840.00244140625,No urgent action; monitor with the rest of the portfolio.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,3.0814896152928837,2.972395338224909,3919.9951171875,135800.0,No urgent action; monitor with the rest of the portfolio.
-Marico,MARICO.NS,Medium,Monitor,Consumer Staples,2.780488522052029,3.2417092466429764,3847.503662109375,122535.00366210938,No urgent action; monitor with the rest of the portfolio.
-Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Monitor,Metals,2.459745760660888,3.188957639219425,3350.0,108400.0,No urgent action; monitor with the rest of the portfolio.
-Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.3614828933547352,-3.869263606670159,-2415.0009155273438,60000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.699361050702692,2.863530919435342,5766.005859375,207126.005859375,No urgent action; monitor with the rest of the portfolio.
+Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.348688644407215,3.2649090233842326,6059.997558593773,191669.99511718753,No urgent action; monitor with the rest of the portfolio.
+Tanfac Industries,TANFACIND.NS,Medium,Positive momentum,Specialty Chemicals,3.6007878496190715,4.135234334631277,6302.252197265625,158706.00219726562,Strong daily move; watch whether it follows through or simply retraces.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.4327573885340543,3.9433927848862904,5740.00244140625,151300.0,No urgent action; monitor with the rest of the portfolio.
+Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,3.110355048082544,3.9505591186649758,5209.99755859375,137090.00244140625,No urgent action; monitor with the rest of the portfolio.
+Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Monitor,Metals,2.4435424371785706,2.767175572519087,2900.0,107700.0,No urgent action; monitor with the rest of the portfolio.
