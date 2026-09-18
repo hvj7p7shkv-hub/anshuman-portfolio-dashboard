@@ -1,12 +1,16 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Sansera Engineering,SANSERA.NS,High,Positive momentum,Auto Components,4.718287466066127,5.988115727034882,11890.00244140625,210450.0,Strong daily move; watch whether it follows through or simply retraces.
-Shilpa Medicare,SHILPAMED.NS,High,Positive momentum,Pharma,4.55574251891013,9.476861522964786,17590.00244140625,203200.0,Strong daily move; watch whether it follows through or simply retraces.
-Azad Engineering,AZAD.NS,High,Positive momentum,Industrials / Aerospace,3.0801706438880414,5.465777441174269,7119.9951171875,137384.99755859375,Strong daily move; watch whether it follows through or simply retraces.
-Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.73423032056359,10.0627223578865,11150.0,121955.0048828125,Strong daily move; watch whether it follows through or simply retraces.
-Zydus Wellness,ZYDUSWELL.NS,High,Event watch,Consumer Staples,2.3173303918904176,-5.37398797200127,-5870.00732421875,103359.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.681294478092693,3.694874851013119,7440.0,208800.0,No urgent action; monitor with the rest of the portfolio.
-Tanfac Industries,TANFACIND.NS,Medium,Monitor,Specialty Chemicals,3.5249442175521164,3.162326645198199,4819.50439453125,157223.25439453125,No urgent action; monitor with the rest of the portfolio.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.3764509023024885,3.4624914302965992,5040.00244140625,150600.0,No urgent action; monitor with the rest of the portfolio.
-Tata Technologies,TATATECH.NS,Medium,Event watch,Engineering Services,3.274664080657458,-3.749589747219939,-5690.00244140625,146059.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Positive momentum,Metals,2.4567829107628376,4.56107336146232,4780.0048828125,109580.0048828125,Strong daily move; watch whether it follows through or simply retraces.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Positive momentum,Wealth Distribution,2.3396383393743436,4.581939745323327,4571.9970703125,104355.0,Strong daily move; watch whether it follows through or simply retraces.
+Sansera Engineering,SANSERA.NS,High,Positive momentum,Auto Components,4.762983646212636,7.269841728485149,14434.99755859375,212994.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+Shilpa Medicare,SHILPAMED.NS,High,Positive momentum,Pharma,4.566757526098779,10.026398256224823,18609.997558593772,204219.99511718753,Strong daily move; watch whether it follows through or simply retraces.
+Azad Engineering,AZAD.NS,High,Positive momentum,Industrials / Aerospace,3.1198276497723767,7.100909551021339,9250.0,139515.00244140625,Strong daily move; watch whether it follows through or simply retraces.
+Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.837396099325268,14.511973256792388,16079.99267578125,126884.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Prudent Corporate Advisory Services,PRUDENT.NS,High,Positive momentum,Wealth Distribution,2.3490782952252753,5.27644974135526,5265.0,105048.0029296875,Strong daily move; watch whether it follows through or simply retraces.
+Tanfac Industries,TANFACIND.NS,Medium,Positive momentum,Specialty Chemicals,3.548221130301658,4.11308921024951,6268.502197265625,158672.25219726562,Strong daily move; watch whether it follows through or simply retraces.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.3386392858118557,2.569388914630033,3740.00244140625,149300.0,No urgent action; monitor with the rest of the portfolio.
+Vadilal Industries,VADILALIND.NS,Medium,Monitor,Consumer Staples,3.2925736667309953,2.878703186137499,4120.0,147240.0,No urgent action; monitor with the rest of the portfolio.
+Tata Technologies,TATATECH.NS,Medium,Event watch,Engineering Services,3.2310783560477554,-4.784182905168866,-7259.99755859375,144490.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+R R Kabel,RRKABEL.NS,Medium,Monitor,Electricals,2.740233531375483,2.5224868783988663,3015.00244140625,122540.00244140625,No urgent action; monitor with the rest of the portfolio.
+FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Monitor,Consumer Internet,2.6739078809496952,2.5945927093387944,3023.997802734375,119573.99780273438,No urgent action; monitor with the rest of the portfolio.
+Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Positive momentum,Metals,2.4598146111138925,4.961832061068705,5200.0,110000.0,Strong daily move; watch whether it follows through or simply retraces.
+Zydus Wellness,ZYDUSWELL.NS,Medium,Event watch,Consumer Staples,2.3357057830076915,-4.376091430134721,-4780.0048828125,104450.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Himadri Speciality Chemical,HSCL.NS,Medium,Monitor,Specialty Chemicals,2.2653214603114082,3.3672611650853668,3300.0,101302.49633789062,No urgent action; monitor with the rest of the portfolio.
+Equitas Small Finance Bank,EQUITASBNK.NS,Medium,Monitor,Banking,1.656796868448347,2.7173147914958173,1959.9990844726562,74089.99633789062,No urgent action; monitor with the rest of the portfolio.
