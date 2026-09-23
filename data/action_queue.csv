@@ -1,11 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Sansera Engineering,SANSERA.NS,High,Core exposure,Auto Components,5.051577540237799,6.7372585524784645,14475.0,229325.0,Strong daily move; watch whether it follows through or simply retraces.
-Karnataka Bank,KTKBANK.NS,High,Positive momentum,Banking,3.651145654832291,5.388654542942617,8475.006103515625,165750.0,Strong daily move; watch whether it follows through or simply retraces.
-Ind-Swift Laboratories,INDSWFTLAB.NS,High,Positive momentum,Pharma,3.573386608138973,6.892460283913238,10459.997558593772,162219.99511718753,Strong daily move; watch whether it follows through or simply retraces.
-Rashi Peripherals,RPTECH.NS,High,Positive momentum,Technology Distribution,2.335543673308541,8.824973669709536,8597.99560546875,106025.99853515625,Strong daily move; watch whether it follows through or simply retraces.
-Shilpa Medicare,SHILPAMED.NS,Medium,Event watch,Pharma,4.55165155044257,-3.5160648764693603,-7530.0048828125,206630.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-R R Kabel,RRKABEL.NS,Medium,Monitor,Electricals,2.7232149718168444,2.52104532317885,3040.00244140625,123625.0,No urgent action; monitor with the rest of the portfolio.
-Solar Industries India,SOLARINDS.NS,Medium,Monitor,Defence / Explosives,2.6288248714792495,3.2442252790033654,3750.0,119340.0,No urgent action; monitor with the rest of the portfolio.
-Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.4180165687739796,3.4687533530071812,3680.0003051757812,109769.9966430664,No urgent action; monitor with the rest of the portfolio.
-BLS E-Services,BLSE.NS,Medium,Monitor,Digital Services,2.168218844588777,3.4200176843232954,3255.0018310546875,98430.00183105469,No urgent action; monitor with the rest of the portfolio.
-Thangamayil Jewellery,THANGAMAYL.NS,Medium,Monitor,Jewellery,1.1277248977323628,3.8332826285366606,1890.0,51195.0,No urgent action; monitor with the rest of the portfolio.
+Sansera Engineering,SANSERA.NS,High,Core exposure,Auto Components,5.0895420538874125,8.017221317198043,17225.0,232075.0,Strong daily move; watch whether it follows through or simply retraces.
+Rashi Peripherals,RPTECH.NS,High,Positive momentum,Technology Distribution,2.342187186707641,9.619407961257442,9371.9970703125,106800.0,Strong daily move; watch whether it follows through or simply retraces.
+JBM Auto,JAYBARMARU.NS,High,Positive momentum,Auto Components,1.9096062415931394,5.689576774525307,4687.5,87074.99885559082,Strong daily move; watch whether it follows through or simply retraces.
+Thangamayil Jewellery,THANGAMAYL.NS,High,Positive momentum,Jewellery,1.1658302513612189,7.818679647094617,3855.0,53160.0,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Event watch,Pharma,4.9003031071613155,-3.1418192347182683,-7247.98828125,223446.005859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Karnataka Bank,KTKBANK.NS,Medium,Monitor,Banking,3.7528724936830056,3.242835595776783,5375.0,171125.0,No urgent action; monitor with the rest of the portfolio.
+Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.402057808956449,2.642683336835705,2820.00732421875,109530.0048828125,No urgent action; monitor with the rest of the portfolio.
