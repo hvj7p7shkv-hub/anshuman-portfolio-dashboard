@@ -1,6 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.062612968843794,0.7609266836094974,1744.9951171875,231069.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
-Karnataka Bank,KTKBANK.NS,Medium,Monitor,Banking,3.7580156529661157,3.484159213565241,5774.993896484375,171524.99389648438,No urgent action; monitor with the rest of the portfolio.
-Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.40236951471001,2.7551330790649864,2940.00244140625,109650.0,No urgent action; monitor with the rest of the portfolio.
-JBM Auto,JAYBARMARU.NS,Medium,Positive momentum,Auto Components,1.9077640013140027,4.991857977629555,4139.997482299816,87074.99885559082,Strong daily move; watch whether it follows through or simply retraces.
-Thangamayil Jewellery,THANGAMAYL.NS,Medium,Monitor,Jewellery,1.1649246429286935,3.857798613145813,1975.0,53170.0,No urgent action; monitor with the rest of the portfolio.
+Arvind,ARVIND.NS,High,Positive momentum,Textiles / Apparel,2.499672290210496,6.59732227764378,7040.00244140625,113750.0,Strong daily move; watch whether it follows through or simply retraces.
+Prudent Corporate Advisory Services,PRUDENT.NS,High,Event watch,Wealth Distribution,2.129127526832292,-5.1150176576429285,-5222.99560546875,96888.0029296875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+JBM Auto,JAYBARMARU.NS,High,Positive momentum,Auto Components,2.0090772922474067,10.236932092042327,8489.999771118175,91425.00114440918,Strong daily move; watch whether it follows through or simply retraces.
+Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.121416596047808,0.8590512864373734,1985.009765625,233055.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
+India Nippon Electricals,INDNIPPON.NS,Medium,Positive momentum,Auto Components,2.8389685210989843,4.438158804693826,5490.00244140625,129190.00244140625,Strong daily move; watch whether it follows through or simply retraces.
+Dr. Lal PathLabs,LALPATHLAB.NS,Medium,Monitor,Diagnostics,2.801632737740584,2.701852249799641,3353.9984130859375,127491.00158691406,No urgent action; monitor with the rest of the portfolio.
+Avalon Technologies,AVALON.NS,Medium,Event watch,Electronics Manufacturing,2.6029554529708414,-4.030787927891433,-4975.0,118450.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.079617474779779,-2.548652711811461,-2474.996566772461,94635.00022888184,No urgent action; monitor with the rest of the portfolio.
+Equitas Small Finance Bank,EQUITASBNK.NS,Medium,Event watch,Banking,1.5402375531145522,-3.016466592550937,-2180.0003051757812,70089.99633789062,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Thangamayil Jewellery,THANGAMAYL.NS,Medium,Event watch,Jewellery,1.126006225497897,-3.6298664660522895,-1930.0,51240.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
