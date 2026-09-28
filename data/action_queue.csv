@@ -1,6 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.024702360056256,-3.7341305186784024,-8705.0048828125,224414.990234375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Karnataka Bank,KTKBANK.NS,Medium,Event watch,Banking,3.609304370715001,-3.9046217894234347,-6550.0030517578125,161199.9969482422,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Solar Industries India,SOLARINDS.NS,Medium,Event watch,Defence / Explosives,2.5551725966734726,-3.671815649531529,-4350.0,114120.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.1338108998654928,2.5436602637970207,2364.00146484375,95300.99853515625,No urgent action; monitor with the rest of the portfolio.
-Monarch Networth Capital,MONARCH.NS,Medium,Event watch,Capital Markets,1.5605987555918424,-3.9283252929014467,-2850.0,69700.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Sansera Engineering,SANSERA.NS,Medium,Event watch,Auto Components,4.987652805444373,-4.4011605895946,-10259.9853515625,222860.009765625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.803105281601837,-2.5978309292787327,-5724.0087890625,214613.994140625,No urgent action; monitor with the rest of the portfolio.
+Karnataka Bank,KTKBANK.NS,Medium,Event watch,Banking,3.601534630557334,-4.068552577193552,-6824.9969482421875,160925.0030517578,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+R R Kabel,RRKABEL.NS,Medium,Monitor,Electricals,2.75254152310061,-2.7093303277729963,-3425.0,122990.00244140625,No urgent action; monitor with the rest of the portfolio.
+Solar Industries India,SOLARINDS.NS,Medium,Event watch,Defence / Explosives,2.5714856063600213,-3.0134211192706983,-3570.0,114900.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.117950748010853,-2.5034754362614264,-2429.9983978271484,94635.00022888184,No urgent action; monitor with the rest of the portfolio.
+Jammu & Kashmir Bank,J&KBANK.NS,Medium,Monitor,Banking,1.9101505352726529,-2.635185450155142,-2310.003662109375,85350.0,No urgent action; monitor with the rest of the portfolio.
+Monarch Networth Capital,MONARCH.NS,Medium,Event watch,Capital Markets,1.5670620130230566,-3.487248489726913,-2529.998779296875,70020.00122070312,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.2971566874705087,-3.0850308336985877,-1845.00274658204,57959.999084472656,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
