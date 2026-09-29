@@ -1,11 +1,14 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Sansera Engineering,SANSERA.NS,High,Event watch,Auto Components,4.709613166191684,-5.088402652572544,-11340.0146484375,211519.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Azad Engineering,AZAD.NS,High,Positive momentum,Industrials / Aerospace,3.2447615617853365,7.028501392342124,9570.00732421875,145730.0048828125,Strong daily move; watch whether it follows through or simply retraces.
-Fermenta Biotech,FERMENTA.NS,High,Positive momentum,Biotechnology,2.4868415193495133,16.513671276839446,15830.004882812489,111690.00244140625,Strong daily move; watch whether it follows through or simply retraces.
-Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.715624761256298,3.286998407400632,6739.990234375,211789.990234375,No urgent action; monitor with the rest of the portfolio.
-R R Kabel,RRKABEL.NS,Medium,Monitor,Electricals,2.809135638838575,2.5815106406820387,3175.0,126165.00244140625,No urgent action; monitor with the rest of the portfolio.
-India Nippon Electricals,INDNIPPON.NS,Medium,Event watch,Auto Components,2.759149272081713,-3.98264569861988,-5140.00244140625,123919.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Rashi Peripherals,RPTECH.NS,Medium,Monitor,Technology Distribution,2.4498361536002453,3.7275877314331574,3954.0014648437364,110028.00292968749,No urgent action; monitor with the rest of the portfolio.
-Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.275318608458592,-2.5648382114511814,-2690.0024414062386,102190.00244140626,No urgent action; monitor with the rest of the portfolio.
-Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.1812464411377985,3.518778571305492,3329.996109008789,97964.99633789062,No urgent action; monitor with the rest of the portfolio.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.0586745622078526,-2.815881419392141,-2679.00146484375,92460.0,No urgent action; monitor with the rest of the portfolio.
+Azad Engineering,AZAD.NS,High,Positive momentum,Industrials / Aerospace,3.2508189899019406,7.013807411306949,9550.0,145709.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Fermenta Biotech,FERMENTA.NS,High,Positive momentum,Biotechnology,2.460145495501764,15.032336663461443,14409.997558593739,110269.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.710798443612433,2.974884174591552,6100.0,211150.0,No urgent action; monitor with the rest of the portfolio.
+Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.064305783709058,-2.8710824048430394,-4059.99755859375,137350.0,No urgent action; monitor with the rest of the portfolio.
+R R Kabel,RRKABEL.NS,Medium,Monitor,Electricals,2.814654606418052,2.5774412995053897,3169.9951171875,126159.99755859375,No urgent action; monitor with the rest of the portfolio.
+India Nippon Electricals,INDNIPPON.NS,Medium,Event watch,Auto Components,2.77717363610145,-3.5487314136217307,-4579.99267578125,124480.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Marico,MARICO.NS,Medium,Event watch,Consumer Staples,2.6342210110579596,-3.2093422177605246,-3914.996337890625,118072.50366210938,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Solar Industries India,SOLARINDS.NS,Medium,Monitor,Defence / Explosives,2.4965112282274746,-2.610966057441255,-3000.0,111900.0,No urgent action; monitor with the rest of the portfolio.
+Rashi Peripherals,RPTECH.NS,Medium,Positive momentum,Technology Distribution,2.4773690124292895,4.683518616119442,4967.995605468764,111041.99707031251,Strong daily move; watch whether it follows through or simply retraces.
+Zydus Wellness,ZYDUSWELL.NS,Medium,Event watch,Consumer Staples,2.2582383339471317,-3.4897058464088304,-3660.003662109375,101220.00122070312,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.1839454167191468,3.4395339648030765,3255.002975463867,97890.0032043457,No urgent action; monitor with the rest of the portfolio.
+Jammu & Kashmir Bank,J&KBANK.NS,Medium,Monitor,Banking,1.8542452868649677,-2.62214110899055,-2237.9974365234375,83112.00256347656,No urgent action; monitor with the rest of the portfolio.
+Thangamayil Jewellery,THANGAMAYL.NS,Medium,Monitor,Jewellery,1.161134288410178,3.8511423725431593,1930.0,52045.0,No urgent action; monitor with the rest of the portfolio.
