@@ -1,11 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.019798410890445,4.020904463124597,8769.9951171875,226880.0048828125,Strong daily move; watch whether it follows through or simply retraces.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Event watch,Pharma,3.516602408812519,-3.8126361092459815,-6300.0,158940.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.1373739392853333,3.2398980706225045,4450.0,141800.0,No urgent action; monitor with the rest of the portfolio.
-Samvardhana Motherson International,MOTHERSON.NS,Medium,Monitor,Auto Components,2.7078102420685877,2.9137204769949854,3464.996337890625,122384.99450683594,No urgent action; monitor with the rest of the portfolio.
-Solar Industries India,SOLARINDS.NS,Medium,Positive momentum,Defence / Explosives,2.5979580250414935,4.932975871313672,5520.0,117420.0,Strong daily move; watch whether it follows through or simply retraces.
-Rashi Peripherals,RPTECH.NS,Medium,Monitor,Technology Distribution,2.547113917114816,3.674285502463115,4080.0,115121.99707031251,No urgent action; monitor with the rest of the portfolio.
-Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Positive momentum,Banking,2.2574488520969576,4.2292283427671995,4139.991760253906,102029.99496459961,Strong daily move; watch whether it follows through or simply retraces.
-Equitas Small Finance Bank,EQUITASBNK.NS,Medium,Monitor,Banking,1.5308526834891152,3.160880805469324,2120.0027465820312,69190.00244140625,No urgent action; monitor with the rest of the portfolio.
-ICICI Bank,ICICIBANK.NS,Medium,Monitor,Banking,1.4674635156777132,2.654391744638196,1715.00244140625,66325.0,No urgent action; monitor with the rest of the portfolio.
-Thangamayil Jewellery,THANGAMAYL.NS,Medium,Monitor,Jewellery,1.1226400118430029,-2.5074454798731827,-1305.0,50740.0,No urgent action; monitor with the rest of the portfolio.
+Ind-Swift Laboratories,INDSWFTLAB.NS,High,Event watch,Pharma,3.447372463368604,-5.894457938452302,-9740.00244140625,155500.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Solar Industries India,SOLARINDS.NS,High,Positive momentum,Defence / Explosives,2.620446464116842,5.630026809651478,6300.0,118200.0,Strong daily move; watch whether it follows through or simply retraces.
+Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.029727508853711,4.018609803279372,8764.990234375,226875.0,Strong daily move; watch whether it follows through or simply retraces.
+Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.1369980936762536,3.0214779759737853,4150.0,141500.0,No urgent action; monitor with the rest of the portfolio.
+Samvardhana Motherson International,MOTHERSON.NS,Medium,Monitor,Auto Components,2.714556315591201,2.9641757193552998,3524.9977111816406,122444.99588012695,No urgent action; monitor with the rest of the portfolio.
+Rashi Peripherals,RPTECH.NS,Medium,Monitor,Technology Distribution,2.536645384299908,3.042094899957992,3378.0029296874864,114420.0,No urgent action; monitor with the rest of the portfolio.
+Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.2446717808107466,3.4324207637834947,3359.996795654297,101250.0,No urgent action; monitor with the rest of the portfolio.
+JBM Auto,JAYBARMARU.NS,Medium,Monitor,Auto Components,2.1347659893944657,3.041734319374423,2842.500686645508,96292.49954223633,No urgent action; monitor with the rest of the portfolio.
+Equitas Small Finance Bank,EQUITASBNK.NS,Medium,Monitor,Banking,1.5281503855437455,2.7732229294986865,1860.0006103515625,68930.00030517578,No urgent action; monitor with the rest of the portfolio.
+Thangamayil Jewellery,THANGAMAYL.NS,Medium,Monitor,Jewellery,1.1222250424161977,-2.738015179171871,-1425.0,50620.0,No urgent action; monitor with the rest of the portfolio.
