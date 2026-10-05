@@ -1,10 +1,6 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Sansera Engineering,SANSERA.NS,High,Event watch,Auto Components,4.7787948343255655,-6.144348312672177,-13939.990234375,212935.009765625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Azad Engineering,AZAD.NS,Medium,Event watch,Industrials / Aerospace,3.1980568373464635,-3.8201927995816565,-5659.99755859375,142500.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,2.868152026757039,-2.517162471395884,-3300.0,127800.0,No urgent action; monitor with the rest of the portfolio.
-Samvardhana Motherson International,MOTHERSON.NS,Medium,Event watch,Auto Components,2.6431097961296697,-3.8159965313965483,-4672.496795654297,117772.49908447266,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.339855527673886,-2.533419700427353,-2709.9990844726703,104260.00213623045,No urgent action; monitor with the rest of the portfolio.
-Zydus Wellness,ZYDUSWELL.NS,Medium,Event watch,Consumer Staples,2.213953031608622,-3.812400206386435,-3909.99755859375,98650.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.2083423542113745,-2.8148170753761526,-2850.0022888183594,98399.99771118164,No urgent action; monitor with the rest of the portfolio.
-Maruti Suzuki India,MARUTI.NS,Medium,Event watch,Auto,1.7887124635100904,-4.855017966073372,-4067.0,79702.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Thangamayil Jewellery,THANGAMAYL.NS,Medium,Event watch,Jewellery,1.0928377382076213,-3.8028447254049746,-1925.0,48695.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+R R Kabel,RRKABEL.NS,High,Positive momentum,Electricals,2.978199145680029,5.309346110885915,6684.99755859375,132594.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+Shilpa Medicare,SHILPAMED.NS,Medium,Event watch,Pharma,4.617506070796823,-3.401931397652913,-7239.990234375,205580.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Positive momentum,Consumer Internet,2.7346561244800878,4.077550239191319,4770.0,121752.00439453125,Strong daily move; watch whether it follows through or simply retraces.
+Ajanta Pharma,AJANTPHARM.NS,Medium,Monitor,Pharma,2.348957940531231,-2.652890254118956,-2850.0,104580.0,No urgent action; monitor with the rest of the portfolio.
+Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Event watch,Metals,2.282473788335858,-3.0158460725818514,-3160.003662109375,101620.00122070312,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
