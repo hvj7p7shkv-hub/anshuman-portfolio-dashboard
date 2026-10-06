@@ -1,14 +1,15 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-R R Kabel,RRKABEL.NS,High,Positive momentum,Electricals,3.1143276089918888,5.438066465256797,7200.0,139600.0,Strong daily move; watch whether it follows through or simply retraces.
-Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.674841549556787,6.280190936727181,7084.99755859375,119900.0,Strong daily move; watch whether it follows through or simply retraces.
-Shilpa Medicare,SHILPAMED.NS,Medium,Positive momentum,Pharma,4.791513603624324,4.1408141256855435,8540.0146484375,214780.0048828125,Strong daily move; watch whether it follows through or simply retraces.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Positive momentum,Pharma,3.5805843928595857,4.018146467919648,6200.0,160500.0,Strong daily move; watch whether it follows through or simply retraces.
-Azad Engineering,AZAD.NS,Medium,Positive momentum,Industrials / Aerospace,3.421856251446146,4.799808770963954,7025.0,153384.99755859375,Strong daily move; watch whether it follows through or simply retraces.
-Vadilal Industries,VADILALIND.NS,Medium,Monitor,Consumer Staples,3.2704901681820266,3.079735620869073,4380.0,146600.0,No urgent action; monitor with the rest of the portfolio.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Positive momentum,Defence,2.949018440085793,4.39899505529413,5570.00732421875,132190.00244140625,Strong daily move; watch whether it follows through or simply retraces.
-Solar Industries India,SOLARINDS.NS,Medium,Monitor,Defence / Explosives,2.6984890228055796,3.1729785056294757,3720.0,120960.0,No urgent action; monitor with the rest of the portfolio.
-Ajanta Pharma,AJANTPHARM.NS,Medium,Monitor,Pharma,2.395109755494089,2.6592068609258446,2780.99853515625,107360.99853515625,No urgent action; monitor with the rest of the portfolio.
-Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Monitor,Metals,2.3513619626629305,3.313074631301771,3379.998779296875,105400.0,No urgent action; monitor with the rest of the portfolio.
-JBM Auto,JAYBARMARU.NS,Medium,Positive momentum,Auto Components,2.248238819557104,4.992961081921798,4792.49382019043,100777.49633789062,Strong daily move; watch whether it follows through or simply retraces.
-Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.243163618081192,3.916910435132226,3790.0024414062386,100550.0,No urgent action; monitor with the rest of the portfolio.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.1437995798831033,3.059742303259072,2852.99560546875,96095.99853515625,No urgent action; monitor with the rest of the portfolio.
+R R Kabel,RRKABEL.NS,High,Positive momentum,Electricals,3.111089152789269,5.35120661525208,7084.99755859375,139484.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.6769395380320464,6.386555440198105,7204.99267578125,120019.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.011734199859683,2.7660405625028917,6048.0029296875,224700.0,Meaningful exposure; keep the thesis and technical structure under review.
+Shilpa Medicare,SHILPAMED.NS,Medium,Positive momentum,Pharma,4.789585016177799,4.121412142398007,8500.0,214739.990234375,Strong daily move; watch whether it follows through or simply retraces.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.5726729354912443,3.8107614276166712,5880.004882812523,160180.00488281253,No urgent action; monitor with the rest of the portfolio.
+Azad Engineering,AZAD.NS,Medium,Positive momentum,Industrials / Aerospace,3.4154289385664076,4.6255858411779815,6770.00732421875,153130.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+Vadilal Industries,VADILALIND.NS,Medium,Monitor,Consumer Staples,3.260638285169057,2.791449866404161,3970.0,146190.0,No urgent action; monitor with the rest of the portfolio.
+Paras Defence and Space Technologies,PARAS.NS,Medium,Positive momentum,Defence,2.951503387355542,4.509564038713121,5710.009765625,132330.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+Solar Industries India,SOLARINDS.NS,Medium,Monitor,Defence / Explosives,2.6859951168326757,2.717502558853635,3186.0,120426.0,No urgent action; monitor with the rest of the portfolio.
+Ajanta Pharma,AJANTPHARM.NS,Medium,Monitor,Pharma,2.3910454606610716,2.50716874193202,2621.9970703125,107201.9970703125,No urgent action; monitor with the rest of the portfolio.
+Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Monitor,Metals,2.3508535143089038,3.313074631301771,3379.998779296875,105400.0,No urgent action; monitor with the rest of the portfolio.
+JBM Auto,JAYBARMARU.NS,Medium,Positive momentum,Auto Components,2.2477526701060992,4.992961081921798,4792.49382019043,100777.49633789062,Strong daily move; watch whether it follows through or simply retraces.
+Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.2411172509304023,3.8445652279501585,3720.0012207031136,100479.99877929688,No urgent action; monitor with the rest of the portfolio.
+Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.1440721149965243,3.095136840812085,2885.99853515625,96129.00146484375,No urgent action; monitor with the rest of the portfolio.
