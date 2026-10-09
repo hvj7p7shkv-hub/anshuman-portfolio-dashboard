@@ -1,8 +1,6 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-BLS E-Services,BLSE.NS,High,Event watch,Digital Services,1.0256446998573543,-5.553792339264807,-2625.0,44640.000915527344,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.2961241738312914,3.260629465609166,4529.99267578125,143459.99755859375,No urgent action; monitor with the rest of the portfolio.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,2.926212002481858,2.552536480288037,3169.9951171875,127359.99755859375,No urgent action; monitor with the rest of the portfolio.
-FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Monitor,Consumer Internet,2.8333433242781862,3.0845622559535046,3690.0,123317.99560546875,No urgent action; monitor with the rest of the portfolio.
-Anand Rathi Wealth,ANANDRATHI.NS,Medium,Event watch,Wealth Management,2.8191443120854314,-4.390102699095777,-5633.994140625,122700.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Fermenta Biotech,FERMENTA.NS,Medium,Event watch,Biotechnology,2.3986851359553305,-3.2616709381474984,-3519.9951171875,104400.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Monarch Networth Capital,MONARCH.NS,Medium,Monitor,Capital Markets,1.5577667836951283,2.711714145750954,1790.00244140625,67800.0,No urgent action; monitor with the rest of the portfolio.
+BLS E-Services,BLSE.NS,High,Event watch,Digital Services,1.0292320759796103,-5.2046948837876865,-2459.9990844726562,44805.00183105469,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.2888102950666678,3.0518895021643733,4239.990234375,143169.9951171875,No urgent action; monitor with the rest of the portfolio.
+FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Monitor,Consumer Internet,2.8365042193542673,3.219985735809794,3852.00439453125,123480.0,No urgent action; monitor with the rest of the portfolio.
+Anand Rathi Wealth,ANANDRATHI.NS,Medium,Event watch,Wealth Management,2.8099033107368134,-4.684648919852608,-6011.9970703125,122321.9970703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Fermenta Biotech,FERMENTA.NS,Medium,Event watch,Biotechnology,2.3777659930377477,-4.086358189513495,-4409.99755859375,103509.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
