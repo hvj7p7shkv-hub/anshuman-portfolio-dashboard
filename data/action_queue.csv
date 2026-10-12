@@ -1,7 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.817778492189062,2.5092732828830178,5175.0,211410.009765625,No urgent action; monitor with the rest of the portfolio.
-Karnataka Bank,KTKBANK.NS,Medium,Monitor,Banking,3.84731754254607,2.8793361785410365,4724.9908447265625,168824.9969482422,No urgent action; monitor with the rest of the portfolio.
-Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.709587229839963,3.3688328624212227,3875.0,118900.0,No urgent action; monitor with the rest of the portfolio.
-Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Monitor,Metals,2.481015546528767,2.697856451711522,2859.99755859375,108869.9951171875,No urgent action; monitor with the rest of the portfolio.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Event watch,Wealth Distribution,2.153130468557574,-3.2353227765346215,-3159.00146484375,94481.9970703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-JBM Auto,JAYBARMARU.NS,Medium,Event watch,Auto Components,2.0964548751154837,-3.173347516089453,-3014.9974822998047,91995.00274658203,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Sansera Engineering,SANSERA.NS,Medium,Monitor,Auto Components,4.8153102620940125,2.5092732828830178,5175.0,211410.009765625,No urgent action; monitor with the rest of the portfolio.
+Karnataka Bank,KTKBANK.NS,Medium,Monitor,Banking,3.845346496148002,2.8793361785410365,4724.9908447265625,168824.9969482422,No urgent action; monitor with the rest of the portfolio.
+Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.7081990620865692,3.3688328624212227,3875.0,118900.0,No urgent action; monitor with the rest of the portfolio.
+Samvardhana Motherson International,MOTHERSON.NS,Medium,Monitor,Auto Components,2.6818346444504977,2.607846727558205,2992.504119873047,117742.50411987305,No urgent action; monitor with the rest of the portfolio.
+Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Monitor,Metals,2.4792890488488064,2.6789949125661794,2840.00244140625,108850.0,No urgent action; monitor with the rest of the portfolio.
+Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.1614571423774485,-2.811319057753847,-2745.0,94895.99853515625,No urgent action; monitor with the rest of the portfolio.
+JBM Auto,JAYBARMARU.NS,Medium,Event watch,Auto Components,2.095380825525188,-3.173347516089453,-3014.9974822998047,91995.00274658203,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Titan Biotech,TITANBIO.NS,Medium,Monitor,Biotechnology,1.377560001966832,2.699950570230203,1590.0009155273524,60480.001831054695,No urgent action; monitor with the rest of the portfolio.
