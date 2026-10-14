@@ -1,11 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Tanfac Industries,TANFACIND.NS,High,Positive momentum,Specialty Chemicals,3.5490030762000893,8.609314602116891,12388.502197265625,156285.0,Strong daily move; watch whether it follows through or simply retraces.
-Rain Industries,RAIN.NS,High,Positive momentum,Materials,2.667571396445619,6.912401566055171,7595.001220703125,117470.00122070312,Strong daily move; watch whether it follows through or simply retraces.
-Kwality Pharmaceuticals,KPL.NS,Medium,Monitor,Pharma,4.725463977574041,-2.7289313933003823,-5838.0029296875,208091.9970703125,No urgent action; monitor with the rest of the portfolio.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.3704003534600298,2.769699581248597,4000.0,148419.99511718753,No urgent action; monitor with the rest of the portfolio.
-Azad Engineering,AZAD.NS,Medium,Event watch,Industrials / Aerospace,3.2793391916658448,-3.2688088974530127,-4880.0048828125,144409.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Positive momentum,Metals,2.5737851829739027,4.124944824443033,4490.00244140625,113340.00244140625,Strong daily move; watch whether it follows through or simply retraces.
-Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.411192142304393,3.782628693742618,3870.0073242187386,106180.0048828125,No urgent action; monitor with the rest of the portfolio.
-Zydus Wellness,ZYDUSWELL.NS,Medium,Positive momentum,Consumer Staples,2.334437189963011,4.50340421299551,4429.998779296875,102800.0,Strong daily move; watch whether it follows through or simply retraces.
-Fermenta Biotech,FERMENTA.NS,Medium,Event watch,Biotechnology,2.239061351462577,-4.899695836776175,-5080.0048828125,98600.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Positive momentum,Banking,2.216807051516657,4.378513911378379,4095.005035400401,97620.00274658203,Strong daily move; watch whether it follows through or simply retraces.
+Rain Industries,RAIN.NS,High,Positive momentum,Materials,2.696817625391196,7.886235190468582,8665.000915527344,118540.00091552734,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Event watch,Pharma,4.633002646367814,-3.93965837172654,-8351.9970703125,203646.005859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tanfac Industries,TANFACIND.NS,Medium,Monitor,Specialty Chemicals,3.5802504978031924,3.863912078197518,5854.493408203125,157371.74560546875,No urgent action; monitor with the rest of the portfolio.
+Azad Engineering,AZAD.NS,Medium,Event watch,Industrials / Aerospace,3.2659158460524105,-3.841514813320901,-5734.99755859375,143555.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Positive momentum,Metals,2.5971713442960196,4.008746444852207,4400.0,114159.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.40902668070838,2.885743747691616,2970.00732421875,105890.00244140625,No urgent action; monitor with the rest of the portfolio.
+Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.3528333347040613,3.5338798573479657,3529.9926757812386,103419.9951171875,No urgent action; monitor with the rest of the portfolio.
+Fermenta Biotech,FERMENTA.NS,Medium,Event watch,Biotechnology,2.2709324833766,-4.203453722933659,-4379.998779296875,99820.00122070312,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Equitas Small Finance Bank,EQUITASBNK.NS,Medium,Monitor,Banking,1.580689186924699,2.674752825424065,1810.0051879882812,69480.0033569336,No urgent action; monitor with the rest of the portfolio.
