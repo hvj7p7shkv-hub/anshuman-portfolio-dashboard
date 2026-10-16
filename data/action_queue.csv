@@ -1,13 +1,7 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Rain Industries,RAIN.NS,High,Event watch,Materials,2.5989387600964275,-5.293573036455879,-6275.001525878906,112264.99938964844,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Rashi Peripherals,RPTECH.NS,High,Event watch,Technology Distribution,2.3746380430051754,-5.724056878275629,-6228.0029296875,102575.99853515625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avalon Technologies,AVALON.NS,High,Event watch,Electronics Manufacturing,2.3692904468953073,-10.322014264444135,-11779.998779296875,102345.00122070312,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Sansera Engineering,SANSERA.NS,Medium,Event watch,Auto Components,4.693091016835022,-3.4366917071493863,-7214.990234375,202725.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Shilpa Medicare,SHILPAMED.NS,Medium,Event watch,Pharma,4.269329497640801,-4.15757208346661,-8000.0,184419.99511718753,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Event watch,Pharma,3.314622245435551,-3.1782525323315602,-4700.000000000023,143180.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Azad Engineering,AZAD.NS,Medium,Event watch,Industrials / Aerospace,3.1828984849544404,-4.224863108295851,-6065.00244140625,137490.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Dr. Lal PathLabs,LALPATHLAB.NS,Medium,Monitor,Diagnostics,2.836608580499634,-2.729619422810259,-3438.501586914077,122531.49841308592,No urgent action; monitor with the rest of the portfolio.
-India Nippon Electricals,INDNIPPON.NS,Medium,Event watch,Auto Components,2.6509105481812143,-3.4241357221792,-4059.99755859375,114509.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.3879261974918364,-2.5875931421594056,-2740.00244140625,103150.0,No urgent action; monitor with the rest of the portfolio.
-Fermenta Biotech,FERMENTA.NS,Medium,Monitor,Biotechnology,2.2524984877940444,-2.5245453715547206,-2520.001220703125,97300.0,No urgent action; monitor with the rest of the portfolio.
-ICICI Bank,ICICIBANK.NS,Medium,Monitor,Banking,1.6082330184654083,3.7950134285553494,2540.00244140625,69470.00122070312,No urgent action; monitor with the rest of the portfolio.
+Thangamayil Jewellery,THANGAMAYL.NS,High,Positive momentum,Jewellery,1.1926557503931825,7.124445819156611,3455.0,51950.0,Strong daily move; watch whether it follows through or simply retraces.
+Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.305957836996884,-2.5257237719156667,-4859.997558593773,187559.99755859375,No urgent action; monitor with the rest of the portfolio.
+Azad Engineering,AZAD.NS,Medium,Event watch,Industrials / Aerospace,3.184815572151958,-3.364567391262574,-4830.0048828125,138725.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Dr. Lal PathLabs,LALPATHLAB.NS,Medium,Event watch,Diagnostics,2.7732058886840627,-4.107325881627322,-5173.9984130859375,120796.00158691406,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Positive momentum,Metals,2.7507989641693307,4.95795171657103,5659.99755859375,119819.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+BLS E-Services,BLSE.NS,Medium,Event watch,Digital Services,1.0086492647086722,-4.061576938186162,-1859.9990844726562,43934.999084472656,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
