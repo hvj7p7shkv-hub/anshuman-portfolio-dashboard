@@ -1,8 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Shilpa Medicare,SHILPAMED.NS,High,Event watch,Pharma,4.076146833327508,-6.367315777132632,-11939.990234375022,175580.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-India Nippon Electricals,INDNIPPON.NS,High,Positive momentum,Auto Components,2.842716515893049,6.136781817162218,7080.0048828125,122450.0,Strong daily move; watch whether it follows through or simply retraces.
-JBM Auto,JAYBARMARU.NS,High,Positive momentum,Auto Components,2.26889168382481,8.09622087080788,7319.995880126964,97732.49816894531,Strong daily move; watch whether it follows through or simply retraces.
-Himadri Speciality Chemical,HSCL.NS,High,Event watch,Specialty Chemicals,2.1426583554853376,-6.871503492546682,-6810.003662109375,92294.99816894531,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Arvind,ARVIND.NS,Medium,Event watch,Textiles / Apparel,2.364945160834119,-3.1101399512763694,-3270.001220703125,101870.00122070312,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Fermenta Biotech,FERMENTA.NS,Medium,Event watch,Biotechnology,2.1571680043029406,-4.4032909252025405,-4279.998779296875,92920.00122070312,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Jammu & Kashmir Bank,J&KBANK.NS,Medium,Monitor,Banking,1.9278004823962434,3.0298459092917174,2441.9952392578125,83039.99633789062,No urgent action; monitor with the rest of the portfolio.
+Shilpa Medicare,SHILPAMED.NS,High,Event watch,Pharma,4.080394837246328,-6.5486310769724,-12279.992675781272,175240.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+India Nippon Electricals,INDNIPPON.NS,High,Positive momentum,Auto Components,2.826285884322359,5.2093351997807735,6010.009765625,121380.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+JBM Auto,JAYBARMARU.NS,High,Positive momentum,Auto Components,2.262914701761355,7.490666570468596,6772.499084472667,97185.00137329102,Strong daily move; watch whether it follows through or simply retraces.
+Fermenta Biotech,FERMENTA.NS,High,Event watch,Biotechnology,2.1445124359436245,-5.246913580246915,-5100.0,92100.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Himadri Speciality Chemical,HSCL.NS,High,Event watch,Specialty Chemicals,2.1160469168732643,-8.30180650941269,-8227.505493164062,90877.49633789062,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.283828439873849,-2.583401506194416,-3739.990234375,141030.0048828125,No urgent action; monitor with the rest of the portfolio.
+Paras Defence and Space Technologies,PARAS.NS,Medium,Monitor,Defence,2.945735755001106,-2.602205573394478,-3380.0048828125,126509.99755859375,No urgent action; monitor with the rest of the portfolio.
+Arvind,ARVIND.NS,Medium,Event watch,Textiles / Apparel,2.3708388582583373,-3.1576955902710147,-3320.001220703125,101820.00122070312,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Jammu & Kashmir Bank,J&KBANK.NS,Medium,Monitor,Banking,1.9468261956860535,3.737068565497781,3012.0025634765625,83610.00366210938,No urgent action; monitor with the rest of the portfolio.
+Monarch Networth Capital,MONARCH.NS,Medium,Monitor,Capital Markets,1.6157190354587858,2.6327539522093213,1780.0048828125,69390.00244140625,No urgent action; monitor with the rest of the portfolio.
