@@ -1,15 +1,17 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Paras Defence and Space Technologies,PARAS.NS,High,Positive momentum,Defence,3.0592180017154353,6.523959566229376,7680.0048828125,125400.0,Strong daily move; watch whether it follows through or simply retraces.
-Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.4422512494652175,7.842291150520286,7279.998779296886,100109.99755859375,Strong daily move; watch whether it follows through or simply retraces.
-Ujjivan Small Finance Bank,UJJIVANSFB.NS,High,Event watch,Banking,2.012643422181208,-5.335625741026295,-4649.99771118163,82500.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Himadri Speciality Chemical,HSCL.NS,High,Positive momentum,Specialty Chemicals,1.911096413152974,6.148373983739841,4537.5,78337.5,Strong daily move; watch whether it follows through or simply retraces.
-Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.067031008211696,-1.8903739093624083,-4001.9970703125,207701.9970703125,Meaningful exposure; keep the thesis and technical structure under review.
-Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.059297888045705,4.265967705191054,8485.009765625,207385.009765625,Strong daily move; watch whether it follows through or simply retraces.
-Shilpa Medicare,SHILPAMED.NS,Medium,Positive momentum,Pharma,4.395125260927105,4.223070752691371,7300.0,180159.99755859375,Strong daily move; watch whether it follows through or simply retraces.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.289025167892242,2.931737739520335,3839.990234375,134819.9951171875,No urgent action; monitor with the rest of the portfolio.
-Azad Engineering,AZAD.NS,Medium,Monitor,Industrials / Aerospace,3.107765460185991,2.78775563874043,3455.0048828125,127390.00244140625,No urgent action; monitor with the rest of the portfolio.
-FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Monitor,Consumer Internet,2.896889214941114,3.3041085856186703,3798.006591796875,118746.00219726562,No urgent action; monitor with the rest of the portfolio.
-Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.5126329066114392,3.9408684559595564,3905.0064086914203,102995.00274658205,No urgent action; monitor with the rest of the portfolio.
-Ajanta Pharma,AJANTPHARM.NS,Medium,Monitor,Pharma,2.4744536037798777,2.9568531485064,2913.0029296875,101430.0,No urgent action; monitor with the rest of the portfolio.
-Jammu & Kashmir Bank,J&KBANK.NS,Medium,Monitor,Banking,1.7128692836897064,3.4751087031904326,2358.0001831054688,70211.99798583984,No urgent action; monitor with the rest of the portfolio.
-Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.1501341873148225,-3.5445812779508423,-1732.5027465820312,47144.99816894531,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Sansera Engineering,SANSERA.NS,High,Core exposure,Auto Components,5.127099827749916,7.662136869972347,15239.990234375,214139.990234375,Strong daily move; watch whether it follows through or simply retraces.
+Shilpa Medicare,SHILPAMED.NS,High,Positive momentum,Pharma,4.346087504159702,5.009833206585768,8659.997558593772,181519.99511718753,Strong daily move; watch whether it follows through or simply retraces.
+Ind-Swift Laboratories,INDSWFTLAB.NS,High,Positive momentum,Pharma,3.476487012885758,10.856615198564157,14219.9951171875,145200.0,Strong daily move; watch whether it follows through or simply retraces.
+Paras Defence and Space Technologies,PARAS.NS,High,Positive momentum,Defence,3.0876567265442856,9.548082660228708,11240.00244140625,128959.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+India Nippon Electricals,INDNIPPON.NS,High,Positive momentum,Auto Components,2.726121231402585,5.847357745581272,6290.00244140625,113859.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Avalon Technologies,AVALON.NS,High,Positive momentum,Electronics Manufacturing,2.5691766934761744,15.593026277992239,14475.006103515636,107305.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+Himadri Speciality Chemical,HSCL.NS,High,Positive momentum,Specialty Chemicals,1.9280495537113103,9.115848696328754,6727.496337890625,80527.49633789062,Strong daily move; watch whether it follows through or simply retraces.
+Jammu & Kashmir Bank,J&KBANK.NS,High,Positive momentum,Banking,1.766687539318292,5.093152354162478,3576.0040283203125,73788.00201416016,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.151521664548897,3.5907227830663357,7458.0029296875,215160.0,Meaningful exposure; keep the thesis and technical structure under review.
+Vadilal Industries,VADILALIND.NS,Medium,Monitor,Consumer Staples,3.4506288450213187,3.564242598447831,4960.0,144120.0,No urgent action; monitor with the rest of the portfolio.
+FSN E-Commerce Ventures (Nykaa),NYKAA.NS,Medium,Positive momentum,Consumer Internet,2.8754283191342522,4.47855272697939,5148.006591796875,120096.00219726562,Strong daily move; watch whether it follows through or simply retraces.
+Solar Industries India,SOLARINDS.NS,Medium,Monitor,Defence / Explosives,2.729904244044135,3.4739994554859877,3828.0,114018.0,No urgent action; monitor with the rest of the portfolio.
+R R Kabel,RRKABEL.NS,Medium,Positive momentum,Electricals,2.6733276473746117,4.350471853095805,4655.0048828125,111655.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.454969756181246,3.476644920312122,3445.00732421875,102535.00366210938,No urgent action; monitor with the rest of the portfolio.
+Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.375838857058507,2.8503317110220694,2750.0,99229.99877929688,No urgent action; monitor with the rest of the portfolio.
+Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.0682942879348225,2.9201497514482977,2450.99853515625,86385.0,No urgent action; monitor with the rest of the portfolio.
