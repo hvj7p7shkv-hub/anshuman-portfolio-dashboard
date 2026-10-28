@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Titan Biotech,TITANBIO.NS,High,Positive momentum,Biotechnology,1.2264166262490146,6.495307282460683,3165.0009155273438,51892.50183105469,Strong daily move; watch whether it follows through or simply retraces.
-Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.238193793908798,2.6282185981794104,5676.005859375,221640.0,Meaningful exposure; keep the thesis and technical structure under review.
-Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.122624548049683,1.0348180052483391,2219.9951171875,216750.0,Meaningful exposure; keep the thesis and technical structure under review.
-Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.406284351763739,3.039681621415391,5500.0,186440.00244140625,No urgent action; monitor with the rest of the portfolio.
-Karnataka Bank,KTKBANK.NS,Medium,Positive momentum,Banking,3.6980978427778233,4.2992917643320805,6450.01220703125,156475.00610351562,Strong daily move; watch whether it follows through or simply retraces.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.57815620103678,2.6301552408066975,3880.0048828124773,151400.0,No urgent action; monitor with the rest of the portfolio.
-Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.472331059276029,3.502523920269307,3540.0009155273438,104610.00061035156,No urgent action; monitor with the rest of the portfolio.
-Avalon Technologies,AVALON.NS,Medium,Event watch,Electronics Manufacturing,2.4447975610619808,-4.606240512506188,-4995.00732421875,103444.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ajanta Pharma,AJANTPHARM.NS,Medium,Monitor,Pharma,2.4382983834938217,2.5465141894358334,2561.9970703125,103170.0,No urgent action; monitor with the rest of the portfolio.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.1171861125518983,3.6336572104183062,3141.005859375,89583.0029296875,No urgent action; monitor with the rest of the portfolio.
+Avalon Technologies,AVALON.NS,High,Event watch,Electronics Manufacturing,2.419125239120408,-5.639065200787307,-6115.00244140625,102325.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Titan Biotech,TITANBIO.NS,High,Positive momentum,Biotechnology,1.2482757158617888,8.357701519584658,4072.4990844726562,52800.0,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.243750883949218,2.703229745735336,5838.0029296875,221801.9970703125,Meaningful exposure; keep the thesis and technical structure under review.
+Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.094761681216203,0.4521489279400992,969.9951171875,215500.0,Meaningful exposure; keep the thesis and technical structure under review.
+Shilpa Medicare,SHILPAMED.NS,Medium,Monitor,Pharma,4.406791542360558,3.017573496696424,5459.99755859375,186400.0,No urgent action; monitor with the rest of the portfolio.
+Karnataka Bank,KTKBANK.NS,Medium,Monitor,Banking,3.676266549555079,3.6493959848405755,5475.006103515625,155500.0,No urgent action; monitor with the rest of the portfolio.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.583591649723982,2.752175908357235,4060.009765625,151580.00488281253,No urgent action; monitor with the rest of the portfolio.
+Rain Industries,RAIN.NS,Medium,Monitor,Materials,2.4717278390679014,3.44316153897426,3480.0033569335797,104550.0030517578,No urgent action; monitor with the rest of the portfolio.
+Ajanta Pharma,AJANTPHARM.NS,Medium,Monitor,Pharma,2.453854762891807,3.1667446349997297,3185.99853515625,103794.00146484375,No urgent action; monitor with the rest of the portfolio.
+Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.102777217805679,2.894431502428274,2502.00439453125,88944.00146484375,No urgent action; monitor with the rest of the portfolio.
+Monarch Networth Capital,MONARCH.NS,Medium,Monitor,Capital Markets,1.6456907108634657,3.0648431186885317,2069.9951171875,69609.99755859375,No urgent action; monitor with the rest of the portfolio.
