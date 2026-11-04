@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Marico,MARICO.NS,High,Positive momentum,Consumer Staples,3.1479390609862428,9.999378603934762,11977.505493164062,131760.00366210938,Strong daily move; watch whether it follows through or simply retraces.
-Rain Industries,RAIN.NS,High,Event watch,Materials,2.1724506058014734,-7.389109776255176,-7254.997253417954,90930.0003051758,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-JBM Auto,JAYBARMARU.NS,High,Event watch,Auto Components,2.164566470882932,-7.0840641829224005,-6907.493591308605,90600.00228881834,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.204850323970935,3.270855348394286,6900.0,217853.994140625,Meaningful exposure; keep the thesis and technical structure under review.
-Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.0473103998310815,1.630834044387397,3390.0146484375,211260.009765625,Meaningful exposure; keep the thesis and technical structure under review.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Monitor,Pharma,3.2850759627755077,-2.689313517338998,-3800.0,137500.0,No urgent action; monitor with the rest of the portfolio.
-India Nippon Electricals,INDNIPPON.NS,Medium,Monitor,Auto Components,2.815608743367953,3.0247377259791985,3459.99755859375,117850.0,No urgent action; monitor with the rest of the portfolio.
-Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.3785144251928227,-2.9772915427196844,-3054.9987792968864,99554.99877929686,No urgent action; monitor with the rest of the portfolio.
-ICICI Bank,ICICIBANK.NS,Medium,Monitor,Banking,1.7016693487177132,2.674064792640163,1854.998779296875,71225.0,No urgent action; monitor with the rest of the portfolio.
-BLS E-Services,BLSE.NS,Medium,Event watch,Digital Services,1.0557637076554658,-3.295695923763764,-1506.0012817382812,44190.000915527344,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ind-Swift Laboratories,INDSWFTLAB.NS,High,Positive momentum,Pharma,3.484238556126558,7.796360085227283,10719.995117187522,148219.99511718753,Strong daily move; watch whether it follows through or simply retraces.
+Dr. Lal PathLabs,LALPATHLAB.NS,High,Positive momentum,Diagnostics,3.100859619803762,5.385058725222547,6740.5047607421875,131911.00158691406,Strong daily move; watch whether it follows through or simply retraces.
+Rashi Peripherals,RPTECH.NS,High,Positive momentum,Technology Distribution,2.379258790589212,5.2208131107418065,5022.00439453125,101214.00146484375,Strong daily move; watch whether it follows through or simply retraces.
+Himadri Speciality Chemical,HSCL.NS,High,Positive momentum,Specialty Chemicals,1.9818340667098402,6.247634743472363,4957.4981689453125,84307.49816894531,Strong daily move; watch whether it follows through or simply retraces.
+Equitas Small Finance Bank,EQUITASBNK.NS,High,Positive momentum,Banking,1.3034748141958155,5.318137048266314,2799.999237060547,55450.00076293945,Strong daily move; watch whether it follows through or simply retraces.
+Thangamayil Jewellery,THANGAMAYL.NS,High,Event watch,Jewellery,1.0074954917950545,-5.449050394258381,-2470.0,42858.9990234375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.276428363729439,3.0323088109694307,6606.005859375,224460.0,Meaningful exposure; keep the thesis and technical structure under review.
+Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.207787080874093,4.866032374113183,10279.98046875,221539.990234375,Strong daily move; watch whether it follows through or simply retraces.
+Paras Defence and Space Technologies,PARAS.NS,Medium,Positive momentum,Defence,2.97483742951956,4.500412881915783,5450.0,126550.0,Strong daily move; watch whether it follows through or simply retraces.
+Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.3989107837413757,2.506153634971464,2495.0012207031364,102050.0,No urgent action; monitor with the rest of the portfolio.
+Fermenta Biotech,FERMENTA.NS,Medium,Monitor,Biotechnology,2.0676941370031914,2.769009287983093,2369.9951171875,87959.99755859376,No urgent action; monitor with the rest of the portfolio.
