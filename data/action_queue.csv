@@ -1,12 +1,21 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Ind-Swift Laboratories,INDSWFTLAB.NS,High,Positive momentum,Pharma,3.484238556126558,7.796360085227283,10719.995117187522,148219.99511718753,Strong daily move; watch whether it follows through or simply retraces.
-Dr. Lal PathLabs,LALPATHLAB.NS,High,Positive momentum,Diagnostics,3.100859619803762,5.385058725222547,6740.5047607421875,131911.00158691406,Strong daily move; watch whether it follows through or simply retraces.
-Rashi Peripherals,RPTECH.NS,High,Positive momentum,Technology Distribution,2.379258790589212,5.2208131107418065,5022.00439453125,101214.00146484375,Strong daily move; watch whether it follows through or simply retraces.
-Himadri Speciality Chemical,HSCL.NS,High,Positive momentum,Specialty Chemicals,1.9818340667098402,6.247634743472363,4957.4981689453125,84307.49816894531,Strong daily move; watch whether it follows through or simply retraces.
-Equitas Small Finance Bank,EQUITASBNK.NS,High,Positive momentum,Banking,1.3034748141958155,5.318137048266314,2799.999237060547,55450.00076293945,Strong daily move; watch whether it follows through or simply retraces.
-Thangamayil Jewellery,THANGAMAYL.NS,High,Event watch,Jewellery,1.0074954917950545,-5.449050394258381,-2470.0,42858.9990234375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.276428363729439,3.0323088109694307,6606.005859375,224460.0,Meaningful exposure; keep the thesis and technical structure under review.
-Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.207787080874093,4.866032374113183,10279.98046875,221539.990234375,Strong daily move; watch whether it follows through or simply retraces.
-Paras Defence and Space Technologies,PARAS.NS,Medium,Positive momentum,Defence,2.97483742951956,4.500412881915783,5450.0,126550.0,Strong daily move; watch whether it follows through or simply retraces.
-Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.3989107837413757,2.506153634971464,2495.0012207031364,102050.0,No urgent action; monitor with the rest of the portfolio.
-Fermenta Biotech,FERMENTA.NS,Medium,Monitor,Biotechnology,2.0676941370031914,2.769009287983093,2369.9951171875,87959.99755859376,No urgent action; monitor with the rest of the portfolio.
+Samvardhana Motherson International,MOTHERSON.NS,High,Positive momentum,Auto Components,2.957986211192299,5.335754099776913,6382.495880126953,126000.0,Strong daily move; watch whether it follows through or simply retraces.
+Maruti Suzuki India,MARUTI.NS,High,Positive momentum,Auto,2.0788069761990324,5.46060858691122,4585.0,88550.0,Strong daily move; watch whether it follows through or simply retraces.
+Fermenta Biotech,FERMENTA.NS,High,Event watch,Biotechnology,1.955088000454537,-5.320599032735707,-4679.998779296886,83279.99877929688,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+ICICI Bank,ICICIBANK.NS,High,Positive momentum,Banking,1.7607060780906543,5.3296837100803796,3795.001220703125,75000.0,Strong daily move; watch whether it follows through or simply retraces.
+Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.202064568662837,0.02256928870814079,50.0,221589.990234375,Meaningful exposure; keep the thesis and technical structure under review.
+Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.193801286172517,-1.4354437629477412,-3221.9970703125,221238.0029296875,Meaningful exposure; keep the thesis and technical structure under review.
+Karnataka Bank,KTKBANK.NS,Medium,Positive momentum,Banking,3.8025383699364106,4.197497126645788,6525.0091552734375,161975.00610351562,Strong daily move; watch whether it follows through or simply retraces.
+Tanfac Industries,TANFACIND.NS,Medium,Event watch,Specialty Chemicals,3.5480516907260062,-3.9508652235789032,-6216.74560546875,151134.75219726562,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Event watch,Pharma,3.350506171572007,-3.7107004325911297,-5500.000000000023,142719.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Anand Rathi Wealth,ANANDRATHI.NS,Medium,Monitor,Wealth Management,3.345341548372243,3.440766550522656,4740.0,142500.0,No urgent action; monitor with the rest of the portfolio.
+Vadilal Industries,VADILALIND.NS,Medium,Event watch,Consumer Staples,3.319987380847737,-4.154523890206708,-6130.0,141420.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.156359095990513,3.0347133761238876,3959.99755859375,134450.0,No urgent action; monitor with the rest of the portfolio.
+Dr. Lal PathLabs,LALPATHLAB.NS,Medium,Event watch,Diagnostics,3.0012292269792518,-3.084654323092939,-4068.9984130859375,127842.00317382812,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Monitor,Metals,2.9814622922335077,3.1346414504339837,3859.99755859375,127000.0,No urgent action; monitor with the rest of the portfolio.
+Solar Industries India,SOLARINDS.NS,Medium,Event watch,Defence / Explosives,2.608662125299113,-4.501624297426909,-5238.0,111120.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.464988509326916,2.8907398334149903,2950.0,105000.0,No urgent action; monitor with the rest of the portfolio.
+Rashi Peripherals,RPTECH.NS,Medium,Monitor,Technology Distribution,2.4425922936248123,2.79802895777832,2831.9970703125,104045.99853515625,No urgent action; monitor with the rest of the portfolio.
+Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.2288191913670077,-2.8846104619604795,-2819.9951171875,94940.00244140626,No urgent action; monitor with the rest of the portfolio.
+Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.0912258574586224,2.5877608143824338,2247.00439453125,89079.00146484375,No urgent action; monitor with the rest of the portfolio.
+Ujjivan Small Finance Bank,UJJIVANSFB.NS,Medium,Monitor,Banking,2.0670689625446705,3.527336813207338,3000.0,88050.00114440918,No urgent action; monitor with the rest of the portfolio.
