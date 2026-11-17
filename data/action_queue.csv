@@ -1,12 +1,7 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Kwality Pharmaceuticals,KPL.NS,High,Core exposure,Pharma,5.6632700166621985,5.9069690503577466,13547.98828125,242903.994140625,Strong daily move; watch whether it follows through or simply retraces.
-Shilpa Medicare,SHILPAMED.NS,High,Event watch,Pharma,4.375497653443298,-5.360567263142957,-10630.004882812478,187669.99511718753,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-R R Kabel,RRKABEL.NS,High,Event watch,Electricals,2.1961422578495546,-5.021425540001889,-4979.998779296875,94195.00122070312,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avalon Technologies,AVALON.NS,High,Event watch,Electronics Manufacturing,2.19182892534836,-7.756468325021437,-7905.0048828125,94009.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Rashi Peripherals,RPTECH.NS,High,Event watch,Technology Distribution,1.8100250443589823,-6.171136735746008,-5105.99853515625,77634.00146484375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Titan Biotech,TITANBIO.NS,High,Positive momentum,Biotechnology,1.346432546814771,5.004774692208591,2752.5009155273438,57750.0,Strong daily move; watch whether it follows through or simply retraces.
-Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.553130919042768,1.1723769530498585,2760.009765625,238180.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
-Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Event watch,Pharma,3.2547529616509445,-3.404369833529286,-4919.995117187523,139600.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Solar Industries India,SOLARINDS.NS,Medium,Monitor,Defence / Explosives,2.632712782447168,-2.6786637708139382,-3108.0,112920.0,No urgent action; monitor with the rest of the portfolio.
-Prudent Corporate Advisory Services,PRUDENT.NS,Medium,Monitor,Wealth Distribution,2.031399538419697,-2.5533437125595415,-2282.99560546875,87129.00146484375,No urgent action; monitor with the rest of the portfolio.
-Thangamayil Jewellery,THANGAMAYL.NS,Medium,Event watch,Jewellery,0.9458834359181865,-3.289630512514896,-1380.0,40570.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Titan Biotech,TITANBIO.NS,High,Positive momentum,Biotechnology,1.4297697286829159,6.00000158532874,3465.0009155273438,61215.000915527344,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.670450611574072,-0.0518687275535501,-125.9912109375,242778.0029296875,Meaningful exposure; keep the thesis and technical structure under review.
+Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.389051238201142,-3.127886408292535,-7450.0,230730.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ind-Swift Laboratories,INDSWFTLAB.NS,Medium,Event watch,Pharma,3.1008122657913377,-4.899715215907053,-6840.00244140625,132759.99755859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avalon Technologies,AVALON.NS,Medium,Monitor,Electronics Manufacturing,2.131983617364418,-2.9039451656142856,-2729.9987792968864,91279.99877929686,No urgent action; monitor with the rest of the portfolio.
+BLS E-Services,BLSE.NS,Medium,Monitor,Digital Services,1.0382909323973326,2.881339951160866,1244.9981689453125,44453.997802734375,No urgent action; monitor with the rest of the portfolio.
