@@ -1,9 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.8879772789594735,0.9180288547685045,2273.994140625,249977.98828125,Meaningful exposure; keep the thesis and technical structure under review.
-Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.440145446746518,-3.7324962758683244,-8955.0048828125,230964.990234375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Technologies,TATATECH.NS,Medium,Monitor,Engineering Services,3.33477302396348,-2.747630076822627,-4000.0,141580.0048828125,No urgent action; monitor with the rest of the portfolio.
-Shyam Metalics and Energy,SHYAMMETL.NS,Medium,Monitor,Metals,3.005959191676881,-2.8988888564845827,-3810.009765625,127619.9951171875,No urgent action; monitor with the rest of the portfolio.
-Solar Industries India,SOLARINDS.NS,Medium,Monitor,Defence / Explosives,2.5689858146191042,-2.8433992517370443,-3192.0,109068.0,No urgent action; monitor with the rest of the portfolio.
-Zydus Wellness,ZYDUSWELL.NS,Medium,Monitor,Consumer Staples,2.1945246221075925,3.9727750910623083,3560.0036621093636,93170.00122070312,No urgent action; monitor with the rest of the portfolio.
-Avalon Technologies,AVALON.NS,Medium,Event watch,Electronics Manufacturing,1.9720572241994396,-3.1128882316819984,-2690.00244140625,83725.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-ICICI Bank,ICICIBANK.NS,Medium,Event watch,Banking,1.8672419999810161,-3.3231707317073145,-2725.0,79275.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Jammu & Kashmir Bank,J&KBANK.NS,High,Positive momentum,Banking,2.193001376992534,5.854298266750013,5154.0069580078125,93192.00439453125,Strong daily move; watch whether it follows through or simply retraces.
+Kwality Pharmaceuticals,KPL.NS,Medium,Core exposure,Pharma,5.861604936433,-0.3552265890910844,-887.98828125,249090.0,Meaningful exposure; keep the thesis and technical structure under review.
+Sansera Engineering,SANSERA.NS,Medium,Core exposure,Auto Components,5.540039111003008,1.9310328206448624,4460.009765625,235425.0,Meaningful exposure; keep the thesis and technical structure under review.
+Azad Engineering,AZAD.NS,Medium,Monitor,Industrials / Aerospace,2.7717255735967004,2.8824737479782536,3300.0,117784.99755859375,No urgent action; monitor with the rest of the portfolio.
+Arvind,ARVIND.NS,Medium,Monitor,Textiles / Apparel,2.4616904656537693,-2.724572081360077,-2930.0048828125,104609.99755859375,No urgent action; monitor with the rest of the portfolio.
+ICICI Bank,ICICIBANK.NS,Medium,Monitor,Banking,1.929630273345,3.4374014506464823,2725.0,82000.0,No urgent action; monitor with the rest of the portfolio.
+Titan Biotech,TITANBIO.NS,Medium,Event watch,Biotechnology,1.291911000080982,-3.646177670388473,-2077.5009155273438,54900.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
